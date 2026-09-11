@@ -12527,7 +12527,7 @@
     "size_text":"122GB",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2022-09-09",
     "languages":[],
     "rating":null,
     "steam_appid":0,
@@ -61924,11 +61924,35 @@
     "category":"体育竞速",
     "version":"",
     "size_text":"",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
-    "rating":null,
+    "developers":[
+      "CD PROJEKT RED"
+    ],
+    "publishers":[
+      "CD PROJEKT RED"
+    ],
+    "release_date":"2020 年 12 月 9 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "阿拉伯语",
+      "捷克语",
+      "匈牙利语",
+      "日语",
+      "韩语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "西班牙语 - 拉丁美洲",
+      "泰语",
+      "繁体中文",
+      "土耳其语",
+      "乌克兰语"
+    ],
+    "rating":86.0,
     "steam_appid":1091500,
     "source":"playzip",
     "updated_at":"1787382982",
@@ -77319,12 +77343,30 @@
     "version":"v2024",
     "size_bytes":21474836480,
     "size_text":"20GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
-    "rating":null,
-    "steam_appid":0,
+    "developers":[
+      "ATLUS"
+    ],
+    "publishers":[
+      "SEGA"
+    ],
+    "release_date":"2024 年 2 月 1 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "日语",
+      "韩语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "繁体中文",
+      "土耳其语"
+    ],
+    "rating":89.0,
+    "steam_appid":2161700,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77336,12 +77378,29 @@
     "version":"v87793",
     "size_bytes":84825604096,
     "size_text":"79GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Massive Entertainment – A Ubisoft Studio"
+    ],
+    "publishers":[
+      "Ubisoft"
+    ],
+    "release_date":"2024 年 11 月 21 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "日语",
+      "韩语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "繁体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2842040,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77353,12 +77412,28 @@
     "version":"v2025",
     "size_bytes":161061273600,
     "size_text":"150GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Codemasters"
+    ],
+    "publishers":[
+      "Electronic Arts"
+    ],
+    "release_date":"2025 年 5 月 30 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "荷兰语",
+      "日语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "简体中文",
+      "西班牙语 - 拉丁美洲"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3059520,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77370,12 +77445,18 @@
     "version":"v1.4.3",
     "size_bytes":28991029248,
     "size_text":"27GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Joshua Gibson"
+    ],
+    "publishers":[
+      "Joshua Gibson"
+    ],
+    "release_date":"即将推出",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4484820,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77389,7 +77470,7 @@
     "size_text":"300MB",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2018-04-12",
     "languages":[],
     "rating":null,
     "steam_appid":0,
@@ -77404,12 +77485,25 @@
     "version":"v0.40.6",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "shirowita"
+    ],
+    "publishers":[
+      "shirowita"
+    ],
+    "release_date":"2026 年 8 月 24 日",
+    "languages":[
+      "英语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "韩语",
+      "法语",
+      "德语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4560660,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77421,12 +77515,28 @@
     "version":"v1.0.13",
     "size_bytes":209715200,
     "size_text":"200MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Sarunas"
+    ],
+    "publishers":[
+      "Sarunas"
+    ],
+    "release_date":"2026 年 8 月 26 日",
+    "languages":[
+      "英语",
+      "立陶宛语",
+      "波兰语",
+      "简体中文",
+      "法语",
+      "西班牙语 - 西班牙",
+      "乌克兰语",
+      "土耳其语",
+      "德语",
+      "日语",
+      "葡萄牙语 - 巴西"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3126500,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77438,12 +77548,31 @@
     "version":"v1.00.07",
     "size_bytes":2147483648,
     "size_text":"2GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "CodeRadGames"
+    ],
+    "publishers":[
+      "CodeRadGames"
+    ],
+    "release_date":"2026 年 9 月 3 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "简体中文",
+      "繁体中文",
+      "日语",
+      "匈牙利语",
+      "俄语",
+      "韩语",
+      "乌克兰语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1890310,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77455,12 +77584,18 @@
     "version":"v2.0",
     "size_bytes":629145600,
     "size_text":"600MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Bobby Two Hands"
+    ],
+    "publishers":[
+      "Forbidden Oak Games Limited"
+    ],
+    "release_date":"2023 年 7 月 15 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1741640,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77472,12 +77607,28 @@
     "version":"v0.4.17",
     "size_bytes":524288000,
     "size_text":"500MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "CanOpener"
+    ],
+    "publishers":[
+      "CanOpener",
+      "WhisperGames"
+    ],
+    "release_date":"2026 年 9 月 4 日",
+    "languages":[
+      "英语",
+      "法语",
+      "德语",
+      "俄语",
+      "日语",
+      "简体中文",
+      "繁体中文",
+      "韩语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 巴西"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2798330,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77491,10 +77642,10 @@
     "size_text":"100MB",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2016-08-30",
     "languages":[],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3059520,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77506,12 +77657,29 @@
     "version":"v1.1.7",
     "size_bytes":314572800,
     "size_text":"300MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Xiao5 Studios"
+    ],
+    "publishers":[
+      "Xiao5 Studios"
+    ],
+    "release_date":"2026 年 8 月 27 日",
+    "languages":[
+      "简体中文",
+      "英语",
+      "法语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "俄语",
+      "日语",
+      "繁体中文",
+      "葡萄牙语 - 巴西",
+      "葡萄牙语 - 葡萄牙",
+      "西班牙语 - 拉丁美洲",
+      "韩语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4676750,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77523,12 +77691,28 @@
     "version":"v0.2.0",
     "size_bytes":17179869184,
     "size_text":"16GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Panache Digital Games"
+    ],
+    "publishers":[
+      "Panache Digital Games"
+    ],
+    "release_date":"2026 年 8 月 25 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "荷兰语",
+      "简体中文",
+      "日语",
+      "韩语",
+      "葡萄牙语 - 巴西",
+      "俄语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3949550,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77540,12 +77724,18 @@
     "version":"v1.6",
     "size_bytes":104857600,
     "size_text":"100MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Rain (orbitaldot)"
+    ],
+    "publishers":[
+      "Rain (orbitaldot)"
+    ],
+    "release_date":"2026 年 7 月 9 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3534790,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77557,12 +77747,46 @@
     "version":"v1.0.23",
     "size_bytes":8589934592,
     "size_text":"8GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Sweet Buns Games"
+    ],
+    "publishers":[
+      "Horny Capybara Studio"
+    ],
+    "release_date":"2026 年 9 月 4 日",
+    "languages":[
+      "英语",
+      "日语",
+      "韩语",
+      "简体中文",
+      "繁体中文",
+      "俄语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 巴西",
+      "葡萄牙语 - 葡萄牙",
+      "保加利亚语",
+      "捷克语",
+      "丹麦语",
+      "荷兰语",
+      "芬兰语",
+      "希腊语",
+      "匈牙利语",
+      "印度尼西亚语",
+      "马来语",
+      "挪威语",
+      "波兰语",
+      "罗马尼亚语",
+      "瑞典语",
+      "泰语",
+      "乌克兰语",
+      "越南语",
+      "土耳其语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4355490,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77574,12 +77798,28 @@
     "version":"v062526",
     "size_bytes":2147483648,
     "size_text":"2GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "NANAIRO ENTERPRISE"
+    ],
+    "publishers":[
+      "DANGEN Entertainment",
+      "Game Source Entertainment"
+    ],
+    "release_date":"2025 年 8 月 25 日",
+    "languages":[
+      "英语",
+      "日语",
+      "简体中文",
+      "西班牙语 - 拉丁美洲",
+      "繁体中文",
+      "韩语",
+      "法语",
+      "德语",
+      "葡萄牙语 - 巴西",
+      "俄语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3029750,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77591,12 +77831,26 @@
     "version":"v2522",
     "size_bytes":629145600,
     "size_text":"600MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "HP⁺ DOG"
+    ],
+    "publishers":[
+      "HP⁺ DOG"
+    ],
+    "release_date":"2026 年 8 月 27 日",
+    "languages":[
+      "英语",
+      "简体中文",
+      "繁体中文",
+      "日语",
+      "俄语",
+      "韩语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 巴西",
+      "西班牙语 - 拉丁美洲"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4298500,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77644,12 +77898,45 @@
     "version":"v2.01",
     "size_bytes":80530636800,
     "size_text":"75GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
-    "rating":null,
-    "steam_appid":0,
+    "developers":[
+      "Valve"
+    ],
+    "publishers":[
+      "完美世界"
+    ],
+    "release_date":"2013 年 7 月 9 日",
+    "languages":[
+      "保加利亚语",
+      "捷克语",
+      "丹麦语",
+      "荷兰语",
+      "英语",
+      "芬兰语",
+      "法语",
+      "德语",
+      "希腊语",
+      "匈牙利语",
+      "意大利语",
+      "日语",
+      "韩语",
+      "挪威语",
+      "波兰语",
+      "葡萄牙语 - 葡萄牙",
+      "葡萄牙语 - 巴西",
+      "罗马尼亚语",
+      "俄语",
+      "简体中文",
+      "西班牙语 - 西班牙",
+      "瑞典语",
+      "泰语",
+      "繁体中文",
+      "土耳其语",
+      "乌克兰语",
+      "西班牙语 - 拉丁美洲",
+      "越南语"
+    ],
+    "rating":90.0,
+    "steam_appid":570,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77661,12 +77948,28 @@
     "version":"v69707",
     "size_bytes":31138512896,
     "size_text":"29GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "IllFonic"
+    ],
+    "publishers":[
+      "IllFonic Publishing",
+      "Co-Publisher: Gun Interactive"
+    ],
+    "release_date":"2026 年 9 月 8 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "日语",
+      "简体中文",
+      "俄语",
+      "韩语",
+      "葡萄牙语 - 巴西"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3219630,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77678,12 +77981,18 @@
     "version":"v2.1.2",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Anders Grube Jensen"
+    ],
+    "publishers":[
+      "TraipseWare"
+    ],
+    "release_date":"2023 年 10 月 26 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2236070,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77695,12 +78004,33 @@
     "version":"v0.9.6",
     "size_bytes":524288000,
     "size_text":"500MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Randwerk"
+    ],
+    "publishers":[
+      "Sidekick Publishing"
+    ],
+    "release_date":"2026 年 9 月 8 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "日语",
+      "韩语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "葡萄牙语 - 葡萄牙",
+      "俄语",
+      "简体中文",
+      "西班牙语 - 拉丁美洲",
+      "繁体中文",
+      "土耳其语",
+      "乌克兰语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3624140,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77712,12 +78042,21 @@
     "version":"v1960.1.1",
     "size_bytes":734003200,
     "size_text":"700MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "KMS STUDIO"
+    ],
+    "publishers":[
+      "KMS STUDIO"
+    ],
+    "release_date":"2026 年 9 月 3 日",
+    "languages":[
+      "英语",
+      "韩语",
+      "日语",
+      "简体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":5035220,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77729,12 +78068,18 @@
     "version":"v0.01",
     "size_bytes":2147483648,
     "size_text":"2GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "SeptCloud Games"
+    ],
+    "publishers":[
+      "SeptCloud Games"
+    ],
+    "release_date":"2026 年 8 月 25 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2944560,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77746,12 +78091,29 @@
     "version":"v0.15.0",
     "size_bytes":104857600,
     "size_text":"100MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Icedrop Games"
+    ],
+    "publishers":[
+      "offbrand games"
+    ],
+    "release_date":"2026 年 8 月 24 日",
+    "languages":[
+      "英语",
+      "西班牙语 - 西班牙",
+      "加泰罗尼亚语",
+      "法语",
+      "意大利语",
+      "德语",
+      "日语",
+      "韩语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "繁体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4195110,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77763,12 +78125,27 @@
     "version":"v1.00",
     "size_bytes":524288000,
     "size_text":"500MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "W77Games"
+    ],
+    "publishers":[
+      "W77Games"
+    ],
+    "release_date":"2026 年 1 月 20 日",
+    "languages":[
+      "英语",
+      "简体中文",
+      "日语",
+      "繁体中文",
+      "俄语",
+      "韩语",
+      "法语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 巴西"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3306200,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77780,12 +78157,22 @@
     "version":"v2.12",
     "size_bytes":4294967296,
     "size_text":"4GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "USERJOY Technology Co.,Ltd."
+    ],
+    "publishers":[
+      "USERJOY Technology Co.,Ltd."
+    ],
+    "release_date":"2026 年 9 月 9 日",
+    "languages":[
+      "英语",
+      "简体中文",
+      "繁体中文",
+      "日语",
+      "韩语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4030150,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77797,12 +78184,22 @@
     "version":"v0.1c",
     "size_bytes":209715200,
     "size_text":"200MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "YYGames"
+    ],
+    "publishers":[
+      "Morexingame",
+      "072 Project"
+    ],
+    "release_date":"2026 年 8 月 13 日",
+    "languages":[
+      "英语",
+      "日语",
+      "简体中文",
+      "繁体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4228690,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77839,12 +78236,23 @@
     "version":"v1.11",
     "size_bytes":314572800,
     "size_text":"300MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "無人島觀光促進會"
+    ],
+    "publishers":[
+      "Alice Publication",
+      "Eternal Alice Media"
+    ],
+    "release_date":"2024 年 6 月 25 日",
+    "languages":[
+      "繁体中文",
+      "英语",
+      "日语",
+      "简体中文",
+      "韩语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2911250,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77856,12 +78264,27 @@
     "version":"v2.06",
     "size_bytes":629145600,
     "size_text":"600MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "R's"
+    ],
+    "publishers":[
+      "Playmeow",
+      "Playmeow News"
+    ],
+    "release_date":"2022 年 10 月 25 日",
+    "languages":[
+      "繁体中文",
+      "英语",
+      "土耳其语",
+      "日语",
+      "韩语",
+      "泰语",
+      "简体中文",
+      "俄语",
+      "西班牙语 - 西班牙"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1738990,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -77875,10 +78298,10 @@
     "size_text":"4GB",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2021-05-08",
     "languages":[],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4484820,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -80861,7 +81284,7 @@
     "size_text":"",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2021-09-10",
     "languages":[],
     "rating":null,
     "steam_appid":0,
@@ -92528,12 +92951,18 @@
     "version":"v1.0.1",
     "size_bytes":1288490188,
     "size_text":"1.2GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "DID Games"
+    ],
+    "publishers":[
+      "DID Games"
+    ],
+    "release_date":"2021 年 12 月 13 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1813820,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
@@ -93485,12 +93914,23 @@
     "version":"v12272023",
     "size_bytes":2899102924,
     "size_text":"2.7GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "marron☆marron"
+    ],
+    "publishers":[
+      "Mango Party",
+      "Mango Party News"
+    ],
+    "release_date":"2023 年 12 月 18 日",
+    "languages":[
+      "日语",
+      "英语",
+      "简体中文",
+      "繁体中文",
+      "韩语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2458490,
     "source":"playzip",
     "updated_at":"1789112913",
     "next_check_at":"0"
