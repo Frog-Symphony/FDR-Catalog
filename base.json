@@ -3,7 +3,7 @@
     "game_id":"pz_1000",
     "title":"DOOM",
     "category":"动作游戏",
-    "version":"",
+    "version":"v04122024",
     "size_bytes":49392123904,
     "size_text":"46GB",
     "developers":[
@@ -34,8 +34,8 @@
   "pz_1001":{
     "game_id":"pz_1001",
     "title":"德军总部: 新秩序",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.0.0.2",
     "size_bytes":46170898432,
     "size_text":"43GB",
     "developers":[
@@ -58,7 +58,7 @@
     "game_id":"pz_1002",
     "title":"德军总部2: 新巨像",
     "category":"动作游戏",
-    "version":"",
+    "version":"v6.5.0",
     "size_bytes":61203283968,
     "size_text":"57GB",
     "developers":[
@@ -341,8 +341,8 @@
   "pz_101":{
     "game_id":"pz_101",
     "title":"巫师3: 狂猎",
-    "category":"无分类",
-    "version":"",
+    "category":"角色扮演",
+    "version":"v20240521",
     "size_bytes":64424509440,
     "size_text":"60GB",
     "developers":[
@@ -825,8 +825,8 @@
   "pz_1022":{
     "game_id":"pz_1022",
     "title":"使命召唤8: 现代战争3",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.9.461",
     "size_bytes":19327352832,
     "size_text":"18GB",
     "developers":[
@@ -955,8 +955,8 @@
   "pz_1027":{
     "game_id":"pz_1027",
     "title":"四海兄弟: 最终版",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.0.3",
     "size_bytes":28991029248,
     "size_text":"27GB",
     "developers":[
@@ -1025,7 +1025,7 @@
     "game_id":"pz_103",
     "title":"战地风云5",
     "category":"动作游戏",
-    "version":"",
+    "version":"v3894003",
     "size_bytes":52613349376,
     "size_text":"49GB",
     "developers":[
@@ -1302,8 +1302,8 @@
   "pz_104":{
     "game_id":"pz_104",
     "title":"鬼泣5",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v04242023",
     "size_bytes":44023414784,
     "size_text":"41GB",
     "developers":[
@@ -1455,7 +1455,7 @@
     "game_id":"pz_1044",
     "title":"四海兄弟2 最终版",
     "category":"动作游戏",
-    "version":"",
+    "version":"v1.0.0.1",
     "size_bytes":10737418240,
     "size_text":"10GB",
     "developers":[
@@ -3010,8 +3010,8 @@
   "pz_1098":{
     "game_id":"pz_1098",
     "title":"God of War Ragnarök",
-    "category":"动作游戏",
-    "version":"",
+    "category":"冒险游戏",
+    "version":"v1.0.668.5700",
     "size_bytes":125627793408,
     "size_text":"117GB",
     "developers":[
@@ -3089,8 +3089,8 @@
   "pz_11":{
     "game_id":"pz_11",
     "title":"荒野大镖客: 救赎2",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1436.28",
     "size_bytes":123480309760,
     "size_text":"115GB",
     "developers":[],
@@ -3212,8 +3212,8 @@
   "pz_1104":{
     "game_id":"pz_1104",
     "title":"命令与征服: 重制版",
-    "category":"无分类",
-    "version":"",
+    "category":"策略游戏",
+    "version":"v1.153",
     "size_bytes":22548578304,
     "size_text":"21GB",
     "developers":[],
@@ -3304,8 +3304,8 @@
   "pz_1108":{
     "game_id":"pz_1108",
     "title":"ACE COMBAT 7: SKIES UNKNOWN",
-    "category":"动作游戏",
-    "version":"",
+    "category":"模拟经营",
+    "version":"v2.3.0.13",
     "size_bytes":52613349376,
     "size_text":"49GB",
     "developers":[
@@ -3362,8 +3362,8 @@
   "pz_111":{
     "game_id":"pz_111",
     "title":"刺客信条7: 起源",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.51",
     "size_bytes":71940702208,
     "size_text":"67GB",
     "developers":[
@@ -3718,8 +3718,8 @@
   "pz_112":{
     "game_id":"pz_112",
     "title":"怪物猎人: 世界",
-    "category":"休闲游戏",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v15.23.00",
     "size_bytes":108447924224,
     "size_text":"101GB",
     "developers":[
@@ -4069,8 +4069,8 @@
   "pz_1131":{
     "game_id":"pz_1131",
     "title":"孤岛惊魂: 原始杀戮",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.3.3",
     "size_bytes":19327352832,
     "size_text":"18GB",
     "developers":[],
@@ -4330,8 +4330,8 @@
   "pz_114":{
     "game_id":"pz_114",
     "title":"怪物猎人: 崛起",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v16.0.2",
     "size_bytes":38117834752,
     "size_text":"35.5GB",
     "developers":[],
@@ -4647,8 +4647,8 @@
   "pz_115":{
     "game_id":"pz_115",
     "title":"刺客信条8: 奥德赛",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.5.3",
     "size_bytes":99857989632,
     "size_text":"93GB",
     "developers":[
@@ -5020,8 +5020,8 @@
   "pz_1160":{
     "game_id":"pz_1160",
     "title":"Max Payne 3",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.0.0.255",
     "size_bytes":33285996544,
     "size_text":"31GB",
     "developers":[
@@ -5402,8 +5402,8 @@
   "pz_1172":{
     "game_id":"pz_1172",
     "title":"荒野大镖客: 救赎",
-    "category":"休闲游戏",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.0.42",
     "size_bytes":8589934592,
     "size_text":"8GB",
     "developers":[
@@ -5474,8 +5474,8 @@
   "pz_1175":{
     "game_id":"pz_1175",
     "title":"龙腾世纪: 影障守护者",
-    "category":"无分类",
-    "version":"",
+    "category":"角色扮演",
+    "version":"v1417829",
     "size_bytes":91268055040,
     "size_text":"85GB",
     "developers":[],
@@ -6437,7 +6437,7 @@
     "game_id":"pz_1204",
     "title":"LEGO 地平线大冒险",
     "category":"动作游戏",
-    "version":"",
+    "version":"v1.04",
     "size_bytes":15032385536,
     "size_text":"14GB",
     "developers":[
@@ -7844,8 +7844,8 @@
   "pz_1249":{
     "game_id":"pz_1249",
     "title":"The Tenants",
-    "category":"无分类",
-    "version":"",
+    "category":"模拟经营",
+    "version":"v1.2.10",
     "size_bytes":1395864371,
     "size_text":"1.3GB",
     "developers":[
@@ -7932,7 +7932,7 @@
     "game_id":"pz_1251",
     "title":"LEGO Marvel Super Heroes 2",
     "category":"动作游戏",
-    "version":"",
+    "version":"v11152017",
     "size_bytes":24696061952,
     "size_text":"23GB",
     "developers":[
@@ -8062,7 +8062,7 @@
     "game_id":"pz_1256",
     "title":"LEGO DC Super-Villains",
     "category":"动作游戏",
-    "version":"",
+    "version":"v10172018",
     "size_bytes":20401094656,
     "size_text":"19GB",
     "developers":[
@@ -8246,8 +8246,8 @@
   "pz_1261":{
     "game_id":"pz_1261",
     "title":"夺宝奇兵: 古老之圈",
-    "category":"无分类",
-    "version":"",
+    "category":"冒险游戏",
+    "version":"v1.0.13",
     "size_bytes":133143986176,
     "size_text":"124GB",
     "developers":[],
@@ -8725,8 +8725,8 @@
   "pz_1274":{
     "game_id":"pz_1274",
     "title":"最终幻想12: 黄道年代",
-    "category":"体育竞速",
-    "version":"",
+    "category":"角色扮演",
+    "version":"v1.0.4",
     "size_bytes":31138512896,
     "size_text":"29GB",
     "developers":[
@@ -8977,8 +8977,8 @@
   "pz_1282":{
     "game_id":"pz_1282",
     "title":"孤岛惊魂 新曙光",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.0.5",
     "size_bytes":34359738368,
     "size_text":"32GB",
     "developers":[],
@@ -9315,8 +9315,8 @@
   "pz_1292":{
     "game_id":"pz_1292",
     "title":"LEGO MARVEL&#39;s Avengers",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v01272016",
     "size_bytes":16106127360,
     "size_text":"15GB",
     "developers":[],
@@ -9443,7 +9443,7 @@
     "game_id":"pz_1297",
     "title":"L.A. Noire",
     "category":"冒险游戏",
-    "version":"",
+    "version":"v2675.1",
     "size_bytes":13958643712,
     "size_text":"13GB",
     "developers":[
@@ -9787,8 +9787,8 @@
   "pz_1309":{
     "game_id":"pz_1309",
     "title":"WWE 2K24",
-    "category":"模拟经营",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.25",
     "size_bytes":103079215104,
     "size_text":"96GB",
     "developers":[
@@ -10592,8 +10592,8 @@
   "pz_1334":{
     "game_id":"pz_1334",
     "title":"使命召唤9: 黑色行动2",
-    "category":"模拟经营",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.0",
     "size_bytes":35433480192,
     "size_text":"33GB",
     "developers":[
@@ -11498,7 +11498,7 @@
     "game_id":"pz_1369",
     "title":"Max Payne 2: The Fall of Max Payne",
     "category":"动作游戏",
-    "version":"",
+    "version":"v1.0",
     "size_bytes":1073741824,
     "size_text":"1GB",
     "developers":[
@@ -11941,8 +11941,8 @@
   "pz_1382":{
     "game_id":"pz_1382",
     "title":"美德传奇f Remastered",
-    "category":"动作游戏",
-    "version":"",
+    "category":"角色扮演",
+    "version":"v1.0.2",
     "size_bytes":11811160064,
     "size_text":"11GB",
     "developers":[
@@ -13510,8 +13510,8 @@
   "pz_143":{
     "game_id":"pz_143",
     "title":"孤岛惊魂6",
-    "category":"体育竞速",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.5.0",
     "size_bytes":86973087744,
     "size_text":"81GB",
     "developers":[
@@ -13691,8 +13691,8 @@
   "pz_1434":{
     "game_id":"pz_1434",
     "title":"Lossless Scaling",
-    "category":"无分类",
-    "version":"",
+    "category":"独立游戏",
+    "version":"v3.2",
     "size_bytes":52428800,
     "size_text":"50MB",
     "developers":[
@@ -14792,8 +14792,8 @@
   "pz_1469":{
     "game_id":"pz_1469",
     "title":"最终幻想16",
-    "category":"冒险游戏",
-    "version":"",
+    "category":"角色扮演",
+    "version":"v1.03",
     "size_bytes":159987531776,
     "size_text":"149GB",
     "developers":[
@@ -15047,8 +15047,8 @@
   "pz_1476":{
     "game_id":"pz_1476",
     "title":"WWE 2K25",
-    "category":"模拟经营",
-    "version":"",
+    "category":"体育竞速",
+    "version":"v1.29",
     "size_bytes":110595407872,
     "size_text":"103GB",
     "developers":[
@@ -17158,8 +17158,8 @@
   "pz_1542":{
     "game_id":"pz_1542",
     "title":"最后生还者2 重制版",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.6.10721",
     "size_bytes":114890375168,
     "size_text":"107GB",
     "developers":[
@@ -18949,9 +18949,10 @@
   "pz_1597":{
     "game_id":"pz_1597",
     "title":"使命召唤10: 幽灵",
-    "category":"冒险游戏",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v749678",
+    "size_bytes":32212254720,
+    "size_text":"30GB",
     "developers":[
       "BATTLE LAB"
     ],
@@ -20190,8 +20191,9 @@
     "game_id":"pz_1634",
     "title":"正当防卫2",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.0.0.2",
+    "size_bytes":4294967296,
+    "size_text":"4GB",
     "developers":[
       "Valve"
     ],
@@ -20380,9 +20382,10 @@
   "pz_164":{
     "game_id":"pz_164",
     "title":"最后生还者1",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v1.1.5.0",
+    "size_bytes":85899345920,
+    "size_text":"80GB",
     "developers":[
       "Square Enix"
     ],
@@ -21531,8 +21534,9 @@
     "game_id":"pz_1676",
     "title":"Fallout: New Vegas",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.0",
+    "size_bytes":17179869184,
+    "size_text":"16GB",
     "developers":[
       "Obsidian Entertainment"
     ],
@@ -21979,8 +21983,9 @@
     "game_id":"pz_169",
     "title":"七龙珠Z 卡卡洛特",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v2.30",
+    "size_bytes":122406567936,
+    "size_text":"114GB",
     "developers":[
       "S-GAME Studio"
     ],
@@ -23893,9 +23898,10 @@
   "pz_175":{
     "game_id":"pz_175",
     "title":"最终幻想7: 核心危机 重聚",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"角色扮演",
+    "version":"v1.0.3",
+    "size_bytes":20401094656,
+    "size_text":"19GB",
     "developers":[
       "The Fun Pimps"
     ],
@@ -23928,9 +23934,10 @@
   "pz_1750":{
     "game_id":"pz_1750",
     "title":"Scribblenauts Unlimited",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v1.0",
+    "size_bytes":2147483648,
+    "size_text":"2GB",
     "developers":[
       "5th Cell Media"
     ],
@@ -24603,8 +24610,9 @@
     "game_id":"pz_1771",
     "title":"麻布仔大冒险",
     "category":"冒险游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v03302023",
+    "size_bytes":47244640256,
+    "size_text":"44GB",
     "developers":[
       "Sumo Digital"
     ],
@@ -25295,9 +25303,10 @@
   "pz_1794":{
     "game_id":"pz_1794",
     "title":"正当防卫3",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v121725",
+    "size_bytes":53687091200,
+    "size_text":"50GB",
     "developers":[
       "CREATIVE ASSEMBLY",
       "Feral Interactive"
@@ -26142,9 +26151,10 @@
   "pz_182":{
     "game_id":"pz_182",
     "title":"中土世界: 战争之影",
-    "category":"休闲游戏",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.21",
+    "size_bytes":100931731456,
+    "size_text":"94GB",
     "developers":[
       "Joshua Gibson"
     ],
@@ -27412,9 +27422,10 @@
   "pz_186":{
     "game_id":"pz_186",
     "title":"地平线 零之曙光 完全版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.0.11.14",
+    "size_bytes":75161927680,
+    "size_text":"70GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -27730,9 +27741,10 @@
   "pz_187":{
     "game_id":"pz_187",
     "title":"神秘海域: 盗贼传奇合辑",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v1.4.21058",
+    "size_bytes":82678120448,
+    "size_text":"77GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -31648,9 +31660,10 @@
   "pz_20":{
     "game_id":"pz_20",
     "title":"赛博朋克 2077",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v2.31",
+    "size_bytes":149250113536,
+    "size_text":"139GB",
     "developers":[
       "CD PROJEKT RED"
     ],
@@ -33197,9 +33210,10 @@
   "pz_205":{
     "game_id":"pz_205",
     "title":"最终幻想15",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"角色扮演",
+    "version":"v1261414",
+    "size_bytes":108447924224,
+    "size_text":"101GB",
     "developers":[
       "Square Enix"
     ],
@@ -33369,7 +33383,7 @@
   "pz_2055":{
     "game_id":"pz_2055",
     "title":"Ratatan",
-    "category":"动作游戏",
+    "category":"休闲游戏",
     "version":"v0.7.14",
     "size_bytes":1395864371,
     "size_text":"1.3GB",
@@ -34179,9 +34193,10 @@
   "pz_208":{
     "game_id":"pz_208",
     "title":"死亡回归",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v20230425",
+    "size_bytes":57982058496,
+    "size_text":"54GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -35544,9 +35559,10 @@
   "pz_2125":{
     "game_id":"pz_2125",
     "title":"神界: 原罪2",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"角色扮演",
+    "version":"v3.6.117.3735",
+    "size_bytes":55834574848,
+    "size_text":"52GB",
     "developers":[
       "Larian Studios"
     ],
@@ -35804,9 +35820,10 @@
   "pz_2133":{
     "game_id":"pz_2133",
     "title":"植物大战僵尸: 重植版",
-    "category":"休闲游戏",
-    "version":"",
-    "size_text":"",
+    "category":"策略游戏",
+    "version":"v1.5.1",
+    "size_bytes":1288490188,
+    "size_text":"1.2GB",
     "developers":[
       "Joshua Gibson"
     ],
@@ -38035,8 +38052,9 @@
     "game_id":"pz_220",
     "title":"黑暗之魂3",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.15.1",
+    "size_bytes":27380416512,
+    "size_text":"25.5GB",
     "developers":[
       "CREATIVE ASSEMBLY",
       "Feral Interactive"
@@ -38949,8 +38967,9 @@
     "game_id":"pz_2232",
     "title":"不义联盟2",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.1.21",
+    "size_bytes":48318382080,
+    "size_text":"45GB",
     "developers":[
       "Valve"
     ],
@@ -39726,9 +39745,10 @@
   "pz_2255":{
     "game_id":"pz_2255",
     "title":"Monster Hunter Stories 2: Wings of Ruin",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"角色扮演",
+    "version":"v1.6.1",
+    "size_bytes":30064771072,
+    "size_text":"28GB",
     "developers":[
       "CAPCOM Co., Ltd."
     ],
@@ -40994,8 +41014,9 @@
     "game_id":"pz_230",
     "title":"仁王2 完全版",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.28.08",
+    "size_bytes":67645734912,
+    "size_text":"63GB",
     "developers":[
       "Valve"
     ],
@@ -41600,9 +41621,10 @@
   "pz_232":{
     "game_id":"pz_232",
     "title":"刺客信条: 英灵殿",
-    "category":"休闲游戏",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.7.0",
+    "size_bytes":163208757248,
+    "size_text":"152GB",
     "developers":[
       "Joshua Gibson"
     ],
@@ -41827,9 +41849,10 @@
   "pz_233":{
     "game_id":"pz_233",
     "title":"小小梦魇2",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v08272021",
+    "size_bytes":11811160064,
+    "size_text":"11GB",
     "developers":[
       "Valve"
     ],
@@ -47616,9 +47639,10 @@
   "pz_252":{
     "game_id":"pz_252",
     "title":"使命召唤14: 二战",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.25",
+    "size_bytes":152471339008,
+    "size_text":"142GB",
     "developers":[
       "Square Enix"
     ],
@@ -61382,9 +61406,10 @@
   "pz_299":{
     "game_id":"pz_299",
     "title":"看门狗2",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.17",
+    "size_bytes":46170898432,
+    "size_text":"43GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -61637,9 +61662,10 @@
   "pz_30":{
     "game_id":"pz_30",
     "title":"尼尔机械纪元",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v7020666",
+    "size_bytes":34359738368,
+    "size_text":"32GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -61653,9 +61679,10 @@
   "pz_300":{
     "game_id":"pz_300",
     "title":"往日不再",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.36.187",
+    "size_bytes":66571993088,
+    "size_text":"62GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -66520,8 +66547,9 @@
     "game_id":"pz_317",
     "title":"深海迷航",
     "category":"冒险游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v08122025",
+    "size_bytes":4294967296,
+    "size_text":"4GB",
     "developers":[
       "Unknown Worlds Entertainment"
     ],
@@ -67441,9 +67469,10 @@
   "pz_320":{
     "game_id":"pz_320",
     "title":"灵魂能力6",
-    "category":"体育竞速",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v02.31.01",
+    "size_bytes":20401094656,
+    "size_text":"19GB",
     "developers":[
       "Playground Games"
     ],
@@ -70078,8 +70107,9 @@
     "game_id":"pz_328",
     "title":"刺客信条5: 大革命",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.5.0",
+    "size_bytes":46170898432,
+    "size_text":"43GB",
     "developers":[
       "Rockstar North"
     ],
@@ -70401,8 +70431,9 @@
     "game_id":"pz_329",
     "title":"刺客信条4: 黑旗",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.08",
+    "size_bytes":14495514624,
+    "size_text":"13.5GB",
     "developers":[
       "Infinity Ward",
       "Beenox",
@@ -73013,9 +73044,10 @@
   "pz_337":{
     "game_id":"pz_337",
     "title":"铁拳7",
-    "category":"模拟经营",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v5.10",
+    "size_bytes":54760833024,
+    "size_text":"51GB",
     "developers":[
       "Firaxis Games"
     ],
@@ -73980,8 +74012,9 @@
     "game_id":"pz_34",
     "title":"看门狗3: 军团",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.5.6",
+    "size_bytes":61525406515,
+    "size_text":"57.3GB",
     "developers":[
       "CREATIVE ASSEMBLY",
       "Feral Interactive"
@@ -74015,9 +74048,10 @@
   "pz_340":{
     "game_id":"pz_340",
     "title":"刺客信条6: 枭雄",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.51",
+    "size_bytes":62277025792,
+    "size_text":"58GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -76819,9 +76853,10 @@
   "pz_349":{
     "game_id":"pz_349",
     "title":"蝙蝠侠: 阿卡姆骑士",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.999",
+    "size_bytes":70866960384,
+    "size_text":"66GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -78542,9 +78577,10 @@
   "pz_362":{
     "game_id":"pz_362",
     "title":"使命召唤11: 高级战争",
-    "category":"模拟经营",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.22.2195988",
+    "size_bytes":54760833024,
+    "size_text":"51GB",
     "developers":[
       "Ubisoft Mainz"
     ],
@@ -78575,9 +78611,10 @@
   "pz_363":{
     "game_id":"pz_363",
     "title":"使命召唤13: 无限战争",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v6.23",
+    "size_bytes":111669149696,
+    "size_text":"104GB",
     "developers":[
       "Square Enix"
     ],
@@ -78601,9 +78638,10 @@
   "pz_364":{
     "game_id":"pz_364",
     "title":"使命召唤12: 黑色行动3",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v100.2.2.0",
+    "size_bytes":95563022336,
+    "size_text":"89GB",
     "developers":[
       "Rainy Blueswitch Studio"
     ],
@@ -79407,8 +79445,9 @@
     "game_id":"pz_397",
     "title":"合金装备5: 幻痛",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.15",
+    "size_bytes":31138512896,
+    "size_text":"29GB",
     "developers":[
       "Rockstar North"
     ],
@@ -80063,8 +80102,9 @@
     "game_id":"pz_419",
     "title":"四海兄弟3: 最终版",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.0.1",
+    "size_bytes":57982058496,
+    "size_text":"54GB",
     "developers":[
       "CREATIVE ASSEMBLY",
       "Feral Interactive"
@@ -80228,8 +80268,9 @@
     "game_id":"pz_427",
     "title":"孤岛惊魂4",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.12.0",
+    "size_bytes":38654705664,
+    "size_text":"36GB",
     "developers":[
       "Infinity Ward",
       "Beenox",
@@ -80269,9 +80310,10 @@
   "pz_429":{
     "game_id":"pz_429",
     "title":"合金装备崛起: 复仇",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.0",
+    "size_bytes":26843545600,
+    "size_text":"25GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -80286,8 +80328,9 @@
     "game_id":"pz_431",
     "title":"使命召唤4: 现代战争 重制版",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.15.1251288",
+    "size_bytes":81174881894,
+    "size_text":"75.6GB",
     "developers":[
       "Infinity Ward",
       "Beenox",
@@ -80411,9 +80454,10 @@
   "pz_435":{
     "game_id":"pz_435",
     "title":"鬼泣4 特别版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v2015",
+    "size_bytes":27917287424,
+    "size_text":"26GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -80515,8 +80559,9 @@
     "game_id":"pz_440",
     "title":"耻辱2",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.77.9",
+    "size_bytes":42949672960,
+    "size_text":"40GB",
     "developers":[
       "Valve"
     ],
@@ -80563,9 +80608,10 @@
   "pz_441":{
     "game_id":"pz_441",
     "title":"鬼泣HD合集",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v04022018",
+    "size_bytes":11811160064,
+    "size_text":"11GB",
     "developers":[
       "Square Enix"
     ],
@@ -80624,9 +80670,10 @@
   "pz_446":{
     "game_id":"pz_446",
     "title":"GTA三部曲 最终版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.113",
+    "size_bytes":34359738368,
+    "size_text":"32GB",
     "developers":[
       "Rockstar Games"
     ],
@@ -80700,8 +80747,9 @@
     "game_id":"pz_451",
     "title":"使命召唤6: 现代战争2 重制版",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.1.2.1279292",
+    "size_bytes":64424509440,
+    "size_text":"60GB",
     "developers":[
       "Grynsoft"
     ],
@@ -80841,9 +80889,10 @@
   "pz_456":{
     "game_id":"pz_456",
     "title":"逆转裁判123: 成步堂精选集",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"05312023",
+    "size_bytes":2362232012,
+    "size_text":"2.2GB",
     "developers":[
       "CAPCOM Co., Ltd."
     ],
@@ -81049,9 +81098,10 @@
   "pz_465":{
     "game_id":"pz_465",
     "title":"黑暗之魂 重制版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.04",
+    "size_bytes":7516192768,
+    "size_text":"7GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -81195,9 +81245,10 @@
   "pz_477":{
     "game_id":"pz_477",
     "title":"耻辱",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v60656",
+    "size_bytes":18253611008,
+    "size_text":"17GB",
     "developers":[
       "Courreges Ace"
     ],
@@ -81217,9 +81268,10 @@
   "pz_479":{
     "game_id":"pz_479",
     "title":"GTA4",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.2.0.59",
+    "size_bytes":21474836480,
+    "size_text":"20GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -81667,8 +81719,9 @@
     "game_id":"pz_502",
     "title":"战地风云3",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.6.0",
+    "size_bytes":21474836480,
+    "size_text":"20GB",
     "developers":[
       "CREATIVE ASSEMBLY",
       "Feral Interactive"
@@ -81736,9 +81789,10 @@
   "pz_504":{
     "game_id":"pz_504",
     "title":"破晓传奇",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"角色扮演",
+    "version":"v20231212",
+    "size_bytes":51217485004,
+    "size_text":"47.7GB",
     "developers":[
       "Bandai Namco Studios Inc."
     ],
@@ -82160,9 +82214,10 @@
   "pz_522":{
     "game_id":"pz_522",
     "title":"房产达人",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"模拟经营",
+    "version":"v1.25287",
+    "size_bytes":13958643712,
+    "size_text":"13GB",
     "developers":[
       "Empyrean"
     ],
@@ -83354,8 +83409,9 @@
     "game_id":"pz_570",
     "title":"黑暗之魂2: 原罪学者",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.03",
+    "size_bytes":16535624089,
+    "size_text":"15.4GB",
     "developers":[
       "Valve"
     ],
@@ -84003,9 +84059,10 @@
   "pz_595":{
     "game_id":"pz_595",
     "title":"奇异人生: 本色",
-    "category":"休闲游戏",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v1.2.124",
+    "size_bytes":26843545600,
+    "size_text":"25GB",
     "developers":[
       "Joshua Gibson"
     ],
@@ -86007,8 +86064,9 @@
     "game_id":"pz_69",
     "title":"God of War",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.0.13",
+    "size_bytes":44023414784,
+    "size_text":"41GB",
     "developers":[
       "Santa Monica Studio",
       "Jetpack Interactive"
@@ -86525,9 +86583,10 @@
   "pz_71":{
     "game_id":"pz_71",
     "title":"幽灵线: 东京",
-    "category":"休闲游戏",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v20240417",
+    "size_bytes":24696061952,
+    "size_text":"23GB",
     "developers":[
       "Joshua Gibson"
     ],
@@ -89386,8 +89445,9 @@
     "game_id":"pz_821",
     "title":"SAND LAND",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.0.7",
+    "size_bytes":16106127360,
+    "size_text":"15GB",
     "developers":[
       "ILCA, Inc."
     ],
@@ -90047,8 +90107,9 @@
     "game_id":"pz_846",
     "title":"喋血复仇",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v20240515",
+    "size_bytes":54760833024,
+    "size_text":"51GB",
     "developers":[
       "Turtle Rock Studios"
     ],
