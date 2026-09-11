@@ -4121,7 +4121,7 @@
     "game_id":"pz_1133",
     "title":"七龙珠 电光炸裂! ZERO",
     "category":"无分类",
-    "version":"",
+    "version":"v3020",
     "size_bytes":37580963840,
     "size_text":"35GB",
     "developers":[
@@ -5901,7 +5901,7 @@
     "game_id":"pz_119",
     "title":"最终幻想7 重制版",
     "category":"模拟经营",
-    "version":"",
+    "version":"v1.007",
     "size_bytes":103079215104,
     "size_text":"96GB",
     "developers":[
@@ -56222,8 +56222,9 @@
     "game_id":"pz_2816",
     "title":"PRAGMATA",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v2235",
+    "size_bytes":37580963840,
+    "size_text":"35GB",
     "developers":[
       "CAPCOM Co., Ltd."
     ],
