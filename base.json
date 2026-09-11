@@ -81423,9 +81423,10 @@
   "pz_487":{
     "game_id":"pz_487",
     "title":"仁王 完全版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.24.08",
+    "size_bytes":50465865728,
+    "size_text":"47GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -82259,9 +82260,10 @@
   "pz_524":{
     "game_id":"pz_524",
     "title":"勇者斗恶龙11S 寻觅逝去的时光",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"角色扮演",
+    "version":"v1.0",
+    "size_bytes":32212254720,
+    "size_text":"30GB",
     "developers":[
       "Square Enix"
     ],
@@ -82454,9 +82456,10 @@
   "pz_532":{
     "game_id":"pz_532",
     "title":"机战佣兵VI 境界天火",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.09.1",
+    "size_bytes":66571993088,
+    "size_text":"62GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -82839,9 +82842,10 @@
   "pz_547":{
     "game_id":"pz_547",
     "title":"生化危机3 重制版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v09252023",
+    "size_bytes":24696061952,
+    "size_text":"23GB",
     "developers":[
       "CREATIVE ASSEMBLY",
       "Feral Interactive"
@@ -84556,9 +84560,10 @@
   "pz_616":{
     "game_id":"pz_616",
     "title":"看门狗",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v1.06.329",
+    "size_bytes":17179869184,
+    "size_text":"16GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -85078,9 +85083,10 @@
   "pz_642":{
     "game_id":"pz_642",
     "title":"生化危机启示录2",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v3658995",
+    "size_bytes":20401094656,
+    "size_text":"19GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -85908,9 +85914,10 @@
   "pz_683":{
     "game_id":"pz_683",
     "title":"蝙蝠侠: 阿卡姆疯人院年度版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.1",
+    "size_bytes":7838315315,
+    "size_text":"7.3GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -86463,9 +86470,10 @@
   "pz_705":{
     "game_id":"pz_705",
     "title":"生化奇兵: 无限 完全版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v20220831",
+    "size_bytes":44775034060,
+    "size_text":"41.7GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -88319,9 +88327,10 @@
   "pz_779":{
     "game_id":"pz_779",
     "title":"地平线 西之绝境 完整版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.5.80",
+    "size_bytes":119185342464,
+    "size_text":"111GB",
     "developers":[
       "Guerrilla",
       "Nixxes Software"
@@ -90067,9 +90076,10 @@
   "pz_845":{
     "game_id":"pz_845",
     "title":"Contraband Police",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"模拟经营",
+    "version":"v10162025",
+    "size_bytes":9663676416,
+    "size_text":"9GB",
     "developers":[
       "Crazy Rocks"
     ],
@@ -92618,8 +92628,9 @@
     "game_id":"pz_943",
     "title":"NieR Replicant ver.1.22474487139...",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v7396468",
+    "size_bytes":24696061952,
+    "size_text":"23GB",
     "developers":[
       "Square Enix",
       "Toylogic Inc."
@@ -92816,8 +92827,9 @@
     "game_id":"pz_950",
     "title":"无主之地2",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.8.5",
+    "size_bytes":21474836480,
+    "size_text":"20GB",
     "developers":[
       "Valve"
     ],
@@ -93069,9 +93081,10 @@
   "pz_959":{
     "game_id":"pz_959",
     "title":"我的世界: 地下城",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.17.0",
+    "size_bytes":2576980377,
+    "size_text":"2.4GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
