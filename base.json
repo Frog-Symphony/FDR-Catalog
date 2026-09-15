@@ -784,7 +784,7 @@
   "pz_1021":{
     "game_id":"pz_1021",
     "title":"Project Hospital",
-    "category":"独立游戏",
+    "category":"模拟经营",
     "version":"v1.2.23315",
     "size_bytes":262144000,
     "size_text":"250MB",
@@ -2799,7 +2799,7 @@
   "pz_1090":{
     "game_id":"pz_1090",
     "title":"KinitoPET",
-    "category":"休闲游戏",
+    "category":"独立游戏",
     "version":"v1.1.0",
     "size_bytes":629145600,
     "size_text":"600MB",
@@ -3345,7 +3345,7 @@
   "pz_1109":{
     "game_id":"pz_1109",
     "title":"People Playground",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v1.27.5",
     "size_bytes":136314880,
     "size_text":"130MB",
@@ -3623,7 +3623,7 @@
   "pz_1117":{
     "game_id":"pz_1117",
     "title":"进击!要塞!",
-    "category":"冒险游戏",
+    "category":"策略游戏",
     "version":"v17192",
     "size_bytes":2147483648,
     "size_text":"2GB",
@@ -5431,7 +5431,7 @@
   "pz_1173":{
     "game_id":"pz_1173",
     "title":"The Mortuary Assistant",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v3.02",
     "size_bytes":2469606195,
     "size_text":"2.3GB",
@@ -5540,7 +5540,7 @@
   "pz_1177":{
     "game_id":"pz_1177",
     "title":"文字化化",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v2.0.6",
     "size_bytes":209715200,
     "size_text":"200MB",
@@ -6481,8 +6481,8 @@
   "pz_1205":{
     "game_id":"pz_1205",
     "title":"刺客信条: 幻景",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.11",
     "size_bytes":68719476736,
     "size_text":"64GB",
     "developers":[],
@@ -6498,7 +6498,7 @@
   "pz_1206":{
     "game_id":"pz_1206",
     "title":"缄默祸运",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v10142024",
     "size_bytes":1288490188,
     "size_text":"1.2GB",
@@ -6570,7 +6570,7 @@
   "pz_1208":{
     "game_id":"pz_1208",
     "title":"汽车旅馆经理模拟器",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v02202025",
     "size_bytes":2791728742,
     "size_text":"2.6GB",
@@ -6672,7 +6672,7 @@
   "pz_1211":{
     "game_id":"pz_1211",
     "title":"消防员康纳",
-    "category":"独立游戏",
+    "category":"角色扮演",
     "version":"v1.0.0",
     "size_bytes":734003200,
     "size_text":"700MB",
@@ -6697,7 +6697,7 @@
   "pz_1212":{
     "game_id":"pz_1212",
     "title":"我是未来: 悠闲末日生活",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.1.0.6",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -7263,7 +7263,7 @@
   "pz_1230":{
     "game_id":"pz_1230",
     "title":"Bear and Breakfast",
-    "category":"冒险游戏",
+    "category":"模拟经营",
     "version":"v1.8.29",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -8269,7 +8269,7 @@
   "pz_1262":{
     "game_id":"pz_1262",
     "title":"Priest Simulator: Vampire Show",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v2.0.0",
     "size_bytes":13958643712,
     "size_text":"13GB",
@@ -8377,7 +8377,7 @@
   "pz_1265":{
     "game_id":"pz_1265",
     "title":"Mon Bazou",
-    "category":"冒险游戏",
+    "category":"模拟经营",
     "version":"v1.02",
     "size_bytes":524288000,
     "size_text":"500MB",
@@ -8421,7 +8421,7 @@
   "pz_1266":{
     "game_id":"pz_1266",
     "title":"Youtubers Life 2",
-    "category":"冒险游戏",
+    "category":"模拟经营",
     "version":"v1.4.0",
     "size_bytes":2147483648,
     "size_text":"2GB",
@@ -9637,7 +9637,7 @@
   "pz_1303":{
     "game_id":"pz_1303",
     "title":"Apex Point",
-    "category":"独立游戏",
+    "category":"模拟经营",
     "version":"v0.035",
     "size_bytes":2147483648,
     "size_text":"2GB",
@@ -9739,7 +9739,7 @@
   "pz_1307":{
     "game_id":"pz_1307",
     "title":"哥布林之石",
-    "category":"独立游戏",
+    "category":"角色扮演",
     "version":"v1.3.2",
     "size_bytes":3221225472,
     "size_text":"3GB",
@@ -10372,7 +10372,7 @@
   "pz_1328":{
     "game_id":"pz_1328",
     "title":"Fears to Fathom - Carson House",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v1.6",
     "size_bytes":2791728742,
     "size_text":"2.6GB",
@@ -10402,7 +10402,7 @@
   "pz_1329":{
     "game_id":"pz_1329",
     "title":"Fears to Fathom - Ironbark Lookout",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v1.6",
     "size_bytes":1610612736,
     "size_text":"1.5GB",
@@ -10471,7 +10471,7 @@
   "pz_1330":{
     "game_id":"pz_1330",
     "title":"Fears to Fathom - Woodbury Getaway",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v1.13",
     "size_bytes":3972844748,
     "size_text":"3.7GB",
@@ -11745,7 +11745,7 @@
   "pz_1376":{
     "game_id":"pz_1376",
     "title":"Vampyr",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v09262018",
     "size_bytes":15032385536,
     "size_text":"14GB",
@@ -11841,7 +11841,7 @@
   "pz_1379":{
     "game_id":"pz_1379",
     "title":"Men of War: Assault Squad 2",
-    "category":"动作游戏",
+    "category":"策略游戏",
     "version":"v3.262.1",
     "size_bytes":10737418240,
     "size_text":"10GB",
@@ -11872,7 +11872,7 @@
   "pz_138":{
     "game_id":"pz_138",
     "title":"这是我的战争",
-    "category":"冒险游戏",
+    "category":"策略游戏",
     "version":"v12092024",
     "size_bytes":3435973836,
     "size_text":"3.2GB",
@@ -12184,8 +12184,8 @@
   "pz_1390":{
     "game_id":"pz_1390",
     "title":"最终幻想7 重生",
-    "category":"无分类",
-    "version":"",
+    "category":"动作游戏",
+    "version":"v1.005",
     "size_bytes":173946175488,
     "size_text":"162GB",
     "developers":[
@@ -12528,7 +12528,7 @@
     "game_id":"pz_140",
     "title":"NBA 2K23",
     "category":"体育竞速",
-    "version":"",
+    "version":"v02062023",
     "size_bytes":130996502528,
     "size_text":"122GB",
     "developers":[],
@@ -12642,7 +12642,7 @@
     "game_id":"pz_1403",
     "title":"漫威蜘蛛侠2",
     "category":"动作游戏",
-    "version":"",
+    "version":"v2.810",
     "size_bytes":135291469824,
     "size_text":"126GB",
     "developers":[
@@ -13355,7 +13355,7 @@
   "pz_1425":{
     "game_id":"pz_1425",
     "title":"废品大亨",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v27550",
     "size_bytes":18253611008,
     "size_text":"17GB",
@@ -14058,7 +14058,7 @@
   "pz_1445":{
     "game_id":"pz_1445",
     "title":"拣爱",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v10052025",
     "size_bytes":629145600,
     "size_text":"600MB",
@@ -14092,7 +14092,7 @@
   "pz_1446":{
     "game_id":"pz_1446",
     "title":"LISA: The Painful",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v08222025",
     "size_bytes":2147483648,
     "size_text":"2GB",
@@ -14495,7 +14495,7 @@
   "pz_1459":{
     "game_id":"pz_1459",
     "title":"Placid Plastic Duck Simulator",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v11112025",
     "size_bytes":1610612736,
     "size_text":"1.5GB",
@@ -14704,7 +14704,7 @@
   "pz_1466":{
     "game_id":"pz_1466",
     "title":"阿西, 美女室友竟然...?",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v122525",
     "size_bytes":28991029248,
     "size_text":"27GB",
@@ -14869,7 +14869,7 @@
     "game_id":"pz_1470",
     "title":"GTA5 增强版",
     "category":"动作游戏",
-    "version":"",
+    "version":"v1158.13",
     "size_bytes":103079215104,
     "size_text":"96GB",
     "developers":[
@@ -15163,7 +15163,7 @@
   "pz_1480":{
     "game_id":"pz_1480",
     "title":"Job Simulator",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v4583",
     "size_bytes":796917760,
     "size_text":"760MB",
@@ -15850,7 +15850,7 @@
   "pz_1501":{
     "game_id":"pz_1501",
     "title":"Granny",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v12012025",
     "size_bytes":629145600,
     "size_text":"600MB",
@@ -16215,7 +16215,7 @@
   "pz_1513":{
     "game_id":"pz_1513",
     "title":"武士 零",
-    "category":"动作游戏",
+    "category":"独立游戏",
     "version":"v1.0.5",
     "size_bytes":157286400,
     "size_text":"150MB",
@@ -16473,7 +16473,7 @@
   "pz_1520":{
     "game_id":"pz_1520",
     "title":"Fireworks Mania - An Explosive Simulator",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v260103",
     "size_bytes":209715200,
     "size_text":"200MB",
@@ -16567,7 +16567,7 @@
   "pz_1523":{
     "game_id":"pz_1523",
     "title":"英雄立志传: 三国志",
-    "category":"休闲游戏",
+    "category":"角色扮演",
     "version":"v0.59.32",
     "size_bytes":4294967296,
     "size_text":"4GB",
@@ -16624,7 +16624,7 @@
   "pz_1525":{
     "game_id":"pz_1525",
     "title":"Solasta: Crown of the Magister",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.5.97",
     "size_bytes":28991029248,
     "size_text":"27GB",
@@ -16971,7 +16971,7 @@
   "pz_1536":{
     "game_id":"pz_1536",
     "title":"开拓者: 拥王者",
-    "category":"休闲游戏",
+    "category":"角色扮演",
     "version":"v2.1.7b",
     "size_bytes":32212254720,
     "size_text":"30GB",
@@ -17407,7 +17407,7 @@
   "pz_1549":{
     "game_id":"pz_1549",
     "title":"加油站大亨",
-    "category":"休闲游戏",
+    "category":"独立游戏",
     "version":"v51415",
     "size_bytes":15032385536,
     "size_text":"14GB",
@@ -18649,7 +18649,7 @@
   "pz_1588":{
     "game_id":"pz_1588",
     "title":"秘影曼德拉",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.6.1",
     "size_bytes":17179869184,
     "size_text":"16GB",
@@ -18731,7 +18731,7 @@
   "pz_1590":{
     "game_id":"pz_1590",
     "title":"Motorcycle Mechanic Simulator 2021",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.0.57",
     "size_bytes":19327352832,
     "size_text":"18GB",
@@ -19584,7 +19584,7 @@
   "pz_1615":{
     "game_id":"pz_1615",
     "title":"Project Wingman",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v2.1.1",
     "size_bytes":8589934592,
     "size_text":"8GB",
@@ -21034,8 +21034,9 @@
     "game_id":"pz_166",
     "title":"文明6",
     "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "version":"v1.0.12.68",
+    "size_bytes":15032385536,
+    "size_text":"14GB",
     "developers":[
       "Playground Games"
     ],
@@ -21721,7 +21722,7 @@
   "pz_1681":{
     "game_id":"pz_1681",
     "title":"The Slormancer",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.0.2c",
     "size_bytes":314572800,
     "size_text":"300MB",
@@ -22318,8 +22319,9 @@
     "game_id":"pz_17",
     "title":"霍格沃茨之遗",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v2025",
+    "size_bytes":94489280512,
+    "size_text":"88GB",
     "developers":[
       "Avalanche Software"
     ],
@@ -22352,9 +22354,10 @@
   "pz_170":{
     "game_id":"pz_170",
     "title":"龙珠 超宇宙2",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.26.0",
+    "size_bytes":37580963840,
+    "size_text":"35GB",
     "developers":[
       "Valve"
     ],
@@ -23030,7 +23033,7 @@
   "pz_1722":{
     "game_id":"pz_1722",
     "title":"Freeways",
-    "category":"独立游戏",
+    "category":"模拟经营",
     "version":"v04152025",
     "size_bytes":20971520,
     "size_text":"20MB",
@@ -23489,7 +23492,7 @@
   "pz_1737":{
     "game_id":"pz_1737",
     "title":"编程农场",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v10292025",
     "size_bytes":73400320,
     "size_text":"70MB",
@@ -23650,7 +23653,7 @@
   "pz_1742":{
     "game_id":"pz_1742",
     "title":"Startup Company",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.24",
     "size_bytes":734003200,
     "size_text":"700MB",
@@ -23737,7 +23740,7 @@
   "pz_1744":{
     "game_id":"pz_1744",
     "title":"Notruf 112 | Emergency Call 112",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v7775",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -24146,8 +24149,9 @@
     "game_id":"pz_1756",
     "title":"艾尔登法环 黑夜君临",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.03.5",
+    "size_bytes":28991029248,
+    "size_text":"27GB",
     "developers":[
       "FromSoftware, Inc."
     ],
@@ -24737,7 +24741,7 @@
   "pz_1774":{
     "game_id":"pz_1774",
     "title":"Surgeon Simulator",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v1.0",
     "size_bytes":838860800,
     "size_text":"800MB",
@@ -25815,8 +25819,9 @@
     "game_id":"pz_181",
     "title":"暗黑破坏神2: 狱火重生",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v92777",
+    "size_bytes":42949672960,
+    "size_text":"40GB",
     "developers":[
       "Valve"
     ],
@@ -26418,7 +26423,7 @@
   "pz_1828":{
     "game_id":"pz_1828",
     "title":"SPORE",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v1.3.0.22",
     "size_bytes":5368709120,
     "size_text":"5GB",
@@ -26630,9 +26635,10 @@
   "pz_1834":{
     "game_id":"pz_1834",
     "title":"METAL GEAR SOLID V: GROUND ZEROES",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.15",
+    "size_bytes":32212254720,
+    "size_text":"30GB",
     "developers":[
       "KONAMI"
     ],
@@ -27139,7 +27145,7 @@
   "pz_1850":{
     "game_id":"pz_1850",
     "title":"Viscera Cleanup Detail",
-    "category":"独立游戏",
+    "category":"模拟经营",
     "version":"v1.145",
     "size_bytes":3758096384,
     "size_text":"3.5GB",
@@ -27162,7 +27168,7 @@
   "pz_1851":{
     "game_id":"pz_1851",
     "title":"Dummynation",
-    "category":"独立游戏",
+    "category":"策略游戏",
     "version":"v3.3",
     "size_bytes":104857600,
     "size_text":"100MB",
@@ -27287,7 +27293,7 @@
   "pz_1855":{
     "game_id":"pz_1855",
     "title":"SuchArt: 艺术家模拟器",
-    "category":"冒险游戏",
+    "category":"模拟经营",
     "version":"v2.2.2",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -27596,7 +27602,7 @@
   "pz_1865":{
     "game_id":"pz_1865",
     "title":"AirportSim",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.4.4",
     "size_bytes":4294967296,
     "size_text":"4GB",
@@ -27831,7 +27837,7 @@
   "pz_1872":{
     "game_id":"pz_1872",
     "title":"SimAirport",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v2023.11.02",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -28431,7 +28437,7 @@
   "pz_1894":{
     "game_id":"pz_1894",
     "title":"Wobbledogs",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.05d",
     "size_bytes":209715200,
     "size_text":"200MB",
@@ -28597,7 +28603,7 @@
   "pz_1899":{
     "game_id":"pz_1899",
     "title":"DORAEMON STORY OF SEASONS",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.0.1",
     "size_bytes":734003200,
     "size_text":"700MB",
@@ -28767,7 +28773,7 @@
   "pz_1905":{
     "game_id":"pz_1905",
     "title":"我们的冒险者公会",
-    "category":"独立游戏",
+    "category":"角色扮演",
     "version":"v11032025",
     "size_bytes":1503238553,
     "size_text":"1.4GB",
@@ -28843,7 +28849,7 @@
   "pz_1908":{
     "game_id":"pz_1908",
     "title":"DRAGON QUEST BUILDERS 2",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.7.3",
     "size_bytes":4294967296,
     "size_text":"4GB",
@@ -29509,8 +29515,9 @@
     "game_id":"pz_193",
     "title":"Fallout 4",
     "category":"角色扮演",
-    "version":"",
-    "size_text":"",
+    "version":"v1.11.240",
+    "size_bytes":124554051584,
+    "size_text":"116GB",
     "developers":[
       "Bethesda Game Studios"
     ],
@@ -30434,8 +30441,9 @@
     "game_id":"pz_1960",
     "title":"Ravager",
     "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "version":"v6.02",
+    "size_bytes":6442450944,
+    "size_text":"6GB",
     "developers":[
       "4MinuteWarning"
     ],
@@ -31031,8 +31039,9 @@
     "game_id":"pz_198",
     "title":"真人快打11",
     "category":"格斗游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v12152022",
+    "size_bytes":120259084288,
+    "size_text":"112GB",
     "developers":[
       "Ubisoft Mainz"
     ],
@@ -31099,7 +31108,7 @@
   "pz_1981":{
     "game_id":"pz_1981",
     "title":"Mutilate-a-Doll 2",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v2023",
     "size_bytes":20971520,
     "size_text":"20MB",
@@ -31157,7 +31166,7 @@
   "pz_1983":{
     "game_id":"pz_1983",
     "title":"Hellpoint",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.03",
     "size_bytes":10737418240,
     "size_text":"10GB",
@@ -31400,7 +31409,7 @@
   "pz_1990":{
     "game_id":"pz_1990",
     "title":"The Legend of Heroes: Trails in the Sky SC",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v2017",
     "size_bytes":3758096384,
     "size_text":"3.5GB",
@@ -31425,7 +31434,7 @@
   "pz_1991":{
     "game_id":"pz_1991",
     "title":"The Legend of Heroes: Trails in the Sky the 3rd",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v2017",
     "size_bytes":3221225472,
     "size_text":"3GB",
@@ -31707,9 +31716,10 @@
   "pz_200":{
     "game_id":"pz_200",
     "title":"哥谭骑士",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v022626",
+    "size_bytes":48318382080,
+    "size_text":"45GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -31780,7 +31790,7 @@
   "pz_2002":{
     "game_id":"pz_2002",
     "title":"Beltmatic",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.0.9",
     "size_bytes":73400320,
     "size_text":"70MB",
@@ -32405,7 +32415,7 @@
   "pz_2021":{
     "game_id":"pz_2021",
     "title":"酿造物语",
-    "category":"独立游戏",
+    "category":"模拟经营",
     "version":"v1.8.4",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -33079,7 +33089,7 @@
   "pz_2045":{
     "game_id":"pz_2045",
     "title":"太太!我喜欢你!",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.0.1016",
     "size_bytes":734003200,
     "size_text":"700MB",
@@ -33837,9 +33847,10 @@
   "pz_2068":{
     "game_id":"pz_2068",
     "title":"SILENT HILL f",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"恐怖游戏",
+    "version":"v1.21",
+    "size_bytes":47244640256,
+    "size_text":"44GB",
     "developers":[
       "NeoBards Entertainment Ltd."
     ],
@@ -34216,7 +34227,7 @@
   "pz_2080":{
     "game_id":"pz_2080",
     "title":"The Legend of Heroes: Trails of Cold Steel",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.6",
     "size_bytes":12884901888,
     "size_text":"12GB",
@@ -34634,7 +34645,7 @@
   "pz_2094":{
     "game_id":"pz_2094",
     "title":"The Legend of Heroes: Trails of Cold Steel III",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.07",
     "size_bytes":20401094656,
     "size_text":"19GB",
@@ -35701,7 +35712,7 @@
   "pz_2129":{
     "game_id":"pz_2129",
     "title":"王冠与冒险",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v0104",
     "size_bytes":4294967296,
     "size_text":"4GB",
@@ -36078,9 +36089,10 @@
   "pz_214":{
     "game_id":"pz_214",
     "title":"生化危机4 重制版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"恐怖游戏",
+    "version":"v030326",
+    "size_bytes":74088185856,
+    "size_text":"69GB",
     "developers":[
       "Infinity Ward",
       "Beenox",
@@ -36766,7 +36778,7 @@
   "pz_2159":{
     "game_id":"pz_2159",
     "title":"无尽传奇 Remastered",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.0.3",
     "size_bytes":17179869184,
     "size_text":"16GB",
@@ -39236,7 +39248,7 @@
   "pz_224":{
     "game_id":"pz_224",
     "title":"侏罗纪世界: 进化",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.12.4",
     "size_bytes":7838315315,
     "size_text":"7.3GB",
@@ -39869,7 +39881,7 @@
   "pz_2259":{
     "game_id":"pz_2259",
     "title":"Primordialis",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v0.0",
     "size_bytes":52428800,
     "size_text":"50MB",
@@ -40968,7 +40980,7 @@
   "pz_2298":{
     "game_id":"pz_2298",
     "title":"Corner Kitchen Fast Food Simulator",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.2",
     "size_bytes":2147483648,
     "size_text":"2GB",
@@ -41194,7 +41206,7 @@
   "pz_2305":{
     "game_id":"pz_2305",
     "title":"CrossCode",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.4.2",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -41256,7 +41268,7 @@
   "pz_2307":{
     "game_id":"pz_2307",
     "title":"女神异闻录5 皇家版",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.03b",
     "size_bytes":44023414784,
     "size_text":"41GB",
@@ -42125,7 +42137,7 @@
   "pz_2339":{
     "game_id":"pz_2339",
     "title":"Ni no Kuni Wrath of the White Witch Remastered",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.0",
     "size_bytes":28991029248,
     "size_text":"27GB",
@@ -43452,7 +43464,7 @@
   "pz_2382":{
     "game_id":"pz_2382",
     "title":"流浪星球",
-    "category":"冒险游戏",
+    "category":"策略游戏",
     "version":"v25.12.27",
     "size_bytes":209715200,
     "size_text":"200MB",
@@ -45231,7 +45243,7 @@
   "pz_2442":{
     "game_id":"pz_2442",
     "title":"Obey the Voice",
-    "category":"冒险游戏",
+    "category":"恐怖游戏",
     "version":"v020226",
     "size_bytes":3435973836,
     "size_text":"3.2GB",
@@ -46704,8 +46716,9 @@
     "game_id":"pz_2488",
     "title":"Wonderful Everyday Down the Rabbit-Hole",
     "category":"冒险游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.643",
+    "size_bytes":3221225472,
+    "size_text":"3GB",
     "developers":[
       "KeroQ"
     ],
@@ -46973,8 +46986,9 @@
     "game_id":"pz_2497",
     "title":"Trans-Siberian Railway Simulator",
     "category":"策略游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v060526",
+    "size_bytes":39728447488,
+    "size_text":"37GB",
     "developers":[
       "Pentacle"
     ],
@@ -48707,9 +48721,10 @@
   "pz_2555":{
     "game_id":"pz_2555",
     "title":"LEGO Harry Potter Collection",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v1.0",
+    "size_bytes":13958643712,
+    "size_text":"13GB",
     "developers":[
       "TT Games",
       "Double Eleven"
@@ -49001,9 +49016,10 @@
   "pz_2566":{
     "game_id":"pz_2566",
     "title":"生化危机4 (2005)",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"恐怖游戏",
+    "version":"v1.1.0",
+    "size_bytes":11811160064,
+    "size_text":"11GB",
     "developers":[
       "Capcom"
     ],
@@ -49027,9 +49043,10 @@
   "pz_2567":{
     "game_id":"pz_2567",
     "title":"勇者斗恶龙I &amp; II HD-2D Remake",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"角色扮演",
+    "version":"v1.0.2",
+    "size_bytes":16106127360,
+    "size_text":"15GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -49250,8 +49267,9 @@
     "game_id":"pz_2575",
     "title":"DOOM: The Dark Ages",
     "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v072926",
+    "size_bytes":106300440576,
+    "size_text":"99GB",
     "developers":[
       "id Software"
     ],
@@ -49761,9 +49779,10 @@
   "pz_2591":{
     "game_id":"pz_2591",
     "title":"死亡搁浅2: 冥滩之上",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v1.10.89",
+    "size_bytes":119185342464,
+    "size_text":"111GB",
     "developers":[
       "Valve"
     ],
@@ -51035,9 +51054,10 @@
   "pz_2632":{
     "game_id":"pz_2632",
     "title":"我是耶稣基督",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"模拟经营",
+    "version":"v1.3.2",
+    "size_bytes":12884901888,
+    "size_text":"12GB",
     "developers":[
       "Space Boat Studios"
     ],
@@ -51635,9 +51655,10 @@
   "pz_2654":{
     "game_id":"pz_2654",
     "title":"生化危机9: 安魂曲",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.0",
+    "size_bytes":82678120448,
+    "size_text":"77GB",
     "developers":[
       "RedCandleGames"
     ],
@@ -55921,9 +55942,10 @@
   "pz_2808":{
     "game_id":"pz_2808",
     "title":"Subnautica 2: 异星水域",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"冒险游戏",
+    "version":"v128456",
+    "size_bytes":15032385536,
+    "size_text":"14GB",
     "developers":[
       "Unknown Worlds Entertainment"
     ],
@@ -58658,7 +58680,7 @@
   "pz_290":{
     "game_id":"pz_290",
     "title":"坎巴拉太空计划2",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v0.2.2.0",
     "size_bytes":18253611008,
     "size_text":"17GB",
@@ -60108,7 +60130,7 @@
   "pz_295":{
     "game_id":"pz_295",
     "title":"胡闹厨房2",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v6.242",
     "size_bytes":7516192768,
     "size_text":"7GB",
@@ -60495,7 +60517,7 @@
   "pz_296":{
     "game_id":"pz_296",
     "title":"为了吾王",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.1.00",
     "size_bytes":1610612736,
     "size_text":"1.5GB",
@@ -60780,8 +60802,9 @@
     "game_id":"pz_297",
     "title":"无主之地3",
     "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "version":"v07182024",
+    "size_bytes":152471339008,
+    "size_text":"142GB",
     "developers":[
       "CREATIVE ASSEMBLY",
       "Feral Interactive"
@@ -61976,8 +61999,9 @@
     "game_id":"pz_301",
     "title":"极品飞车20: 复仇",
     "category":"体育竞速",
-    "version":"",
-    "size_text":"",
+    "version":"v1.051",
+    "size_bytes":24696061952,
+    "size_text":"23GB",
     "developers":[
       "CD PROJEKT RED"
     ],
@@ -67794,9 +67818,10 @@
   "pz_3208":{
     "game_id":"pz_3208",
     "title":"EA SPORTS College Football 27",
-    "category":"模拟经营",
-    "version":"",
-    "size_text":"",
+    "category":"体育竞速",
+    "version":"v36976",
+    "size_bytes":48318382080,
+    "size_text":"45GB",
     "developers":[
       "Tiburon"
     ],
@@ -75052,9 +75077,10 @@
   "pz_3430":{
     "game_id":"pz_3430",
     "title":"刺客信条: 黑旗 记忆重置",
-    "category":"休闲游戏",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.06",
+    "size_bytes":59055800320,
+    "size_text":"55GB",
     "developers":[
       "Joshua Gibson"
     ],
@@ -78649,6 +78675,74 @@
     "updated_at":"1789374784",
     "next_check_at":"0"
   },
+  "pz_3556":{
+    "game_id":"pz_3556",
+    "title":"欢迎来到古原镇",
+    "category":"角色扮演",
+    "version":"v1.00",
+    "size_bytes":1073741824,
+    "size_text":"1GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
+  "pz_3557":{
+    "game_id":"pz_3557",
+    "title":"宝藏猎人克莱儿",
+    "category":"无分类",
+    "version":"v1.02",
+    "size_bytes":2147483648,
+    "size_text":"2GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
+  "pz_3558":{
+    "game_id":"pz_3558",
+    "title":"Sheltered",
+    "category":"独立游戏",
+    "version":"v2019",
+    "size_bytes":314572800,
+    "size_text":"300MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
+  "pz_3559":{
+    "game_id":"pz_3559",
+    "title":"破碎怪谈: 切勿欺骗",
+    "category":"动作游戏",
+    "version":"v091026",
+    "size_bytes":5368709120,
+    "size_text":"5GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
   "pz_356":{
     "game_id":"pz_356",
     "title":"纪元1800",
@@ -78682,6 +78776,91 @@
     "updated_at":"1787382982",
     "next_check_at":"1789974982"
   },
+  "pz_3560":{
+    "game_id":"pz_3560",
+    "title":"The Crust",
+    "category":"策略游戏",
+    "version":"v1.07",
+    "size_bytes":9663676416,
+    "size_text":"9GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
+  "pz_3561":{
+    "game_id":"pz_3561",
+    "title":"星的归还者",
+    "category":"无分类",
+    "version":"v88",
+    "size_bytes":2147483648,
+    "size_text":"2GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
+  "pz_3562":{
+    "game_id":"pz_3562",
+    "title":"魅魔的梦魇",
+    "category":"无分类",
+    "version":"v1.09",
+    "size_bytes":2147483648,
+    "size_text":"2GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
+  "pz_3563":{
+    "game_id":"pz_3563",
+    "title":"嘉豪",
+    "category":"休闲游戏",
+    "version":"v091226",
+    "size_bytes":3221225472,
+    "size_text":"3GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
+  "pz_3564":{
+    "game_id":"pz_3564",
+    "title":"Who Needs a Hero?",
+    "category":"无分类",
+    "version":"v3.06",
+    "size_bytes":104857600,
+    "size_text":"100MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1789460737",
+    "next_check_at":"0"
+  },
   "pz_357":{
     "game_id":"pz_357",
     "title":"控制: 终极合辑",
@@ -78702,7 +78881,7 @@
   "pz_358":{
     "game_id":"pz_358",
     "title":"动物园之星",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.2.5.63260",
     "size_bytes":11811160064,
     "size_text":"11GB",
@@ -78785,9 +78964,10 @@
   "pz_36":{
     "game_id":"pz_36",
     "title":"漫威蜘蛛侠 重制版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v4.630",
+    "size_bytes":63350767616,
+    "size_text":"59GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -78838,9 +79018,10 @@
   "pz_361":{
     "game_id":"pz_361",
     "title":"漫威蜘蛛侠 迈尔斯莫拉莱斯",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v4.630",
+    "size_bytes":45097156608,
+    "size_text":"42GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -79240,7 +79421,7 @@
   "pz_375":{
     "game_id":"pz_375",
     "title":"沙石镇时光",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.4.2.1",
     "size_bytes":16106127360,
     "size_text":"15GB",
@@ -79538,9 +79719,10 @@
   "pz_39":{
     "game_id":"pz_39",
     "title":"上古卷轴5: 天际特别版",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.7.99.08",
+    "size_bytes":18253611008,
+    "size_text":"17GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -79687,9 +79869,10 @@
   "pz_396":{
     "game_id":"pz_396",
     "title":"DOOM Eternal",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v081826",
+    "size_bytes":93415538688,
+    "size_text":"87GB",
     "developers":[
       "id Software"
     ],
@@ -79789,7 +79972,7 @@
   "pz_399":{
     "game_id":"pz_399",
     "title":"去月球",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v07032023",
     "size_bytes":629145600,
     "size_text":"600MB",
@@ -79862,8 +80045,9 @@
     "game_id":"pz_403",
     "title":"生化危机2 重制版",
     "category":"恐怖游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v20230814",
+    "size_bytes":25769803776,
+    "size_text":"24GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -79878,8 +80062,9 @@
     "game_id":"pz_404",
     "title":"生化危机5",
     "category":"恐怖游戏",
-    "version":"",
-    "size_text":"",
+    "version":"v1.2.0",
+    "size_bytes":9019431321,
+    "size_text":"8.4GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -79938,7 +80123,7 @@
   "pz_406":{
     "game_id":"pz_406",
     "title":"狂想乐园",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v4.0.1",
     "size_bytes":19327352832,
     "size_text":"18GB",
@@ -80449,7 +80634,7 @@
   "pz_423":{
     "game_id":"pz_423",
     "title":"地下蚁国",
-    "category":"模拟经营",
+    "category":"策略游戏",
     "version":"v1.0.00419",
     "size_bytes":5368709120,
     "size_text":"5GB",
@@ -80681,7 +80866,7 @@
   "pz_434":{
     "game_id":"pz_434",
     "title":"逃脱者2",
-    "category":"动作游戏",
+    "category":"策略游戏",
     "version":"v1.1.10",
     "size_bytes":1503238553,
     "size_text":"1.4GB",
@@ -80774,9 +80959,10 @@
   "pz_437":{
     "game_id":"pz_437",
     "title":"枪匠模拟器",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"模拟经营",
+    "version":"v1.6.39",
+    "size_bytes":17179869184,
+    "size_text":"16GB",
     "developers":[
       "GameHunters"
     ],
@@ -81160,7 +81346,7 @@
   "pz_455":{
     "game_id":"pz_455",
     "title":"学园构想家",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.3.5",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -81341,7 +81527,7 @@
   "pz_463":{
     "game_id":"pz_463",
     "title":"女神异闻录4 黄金版",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v2023",
     "size_bytes":9126805504,
     "size_text":"8.5GB",
@@ -81418,9 +81604,10 @@
   "pz_469":{
     "game_id":"pz_469",
     "title":"瑞奇与叮当 时空跳转",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v3.630.1",
+    "size_bytes":39728447488,
+    "size_text":"37GB",
     "developers":[
       "Insomniac Games",
       "Nixxes Software"
@@ -81635,8 +81822,9 @@
     "game_id":"pz_482",
     "title":"NBA 2K22",
     "category":"体育竞速",
-    "version":"",
-    "size_text":"",
+    "version":"v05192022",
+    "size_bytes":115964116992,
+    "size_text":"108GB",
     "developers":[],
     "publishers":[],
     "release_date":"2021-09-10",
@@ -82059,7 +82247,7 @@
   "pz_503":{
     "game_id":"pz_503",
     "title":"绯红结系",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.08",
     "size_bytes":19327352832,
     "size_text":"18GB",
@@ -82343,7 +82531,7 @@
   "pz_517":{
     "game_id":"pz_517",
     "title":"磁带妖怪",
-    "category":"独立游戏",
+    "category":"角色扮演",
     "version":"v1.8.2",
     "size_bytes":838860800,
     "size_text":"800MB",
@@ -82709,7 +82897,7 @@
   "pz_530":{
     "game_id":"pz_530",
     "title":"神之亵渎",
-    "category":"动作游戏",
+    "category":"模拟经营",
     "version":"v4.0.67",
     "size_bytes":734003200,
     "size_text":"700MB",
@@ -82793,7 +82981,7 @@
   "pz_534":{
     "game_id":"pz_534",
     "title":"矮人军团自走棋",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.10.0",
     "size_bytes":209715200,
     "size_text":"200MB",
@@ -83085,7 +83273,7 @@
   "pz_545":{
     "game_id":"pz_545",
     "title":"宿命残响",
-    "category":"独立游戏",
+    "category":"角色扮演",
     "version":"v1.322",
     "size_bytes":629145600,
     "size_text":"600MB",
@@ -83289,7 +83477,7 @@
   "pz_550":{
     "game_id":"pz_550",
     "title":"忍者神龟: 施莱德的复仇",
-    "category":"休闲游戏",
+    "category":"独立游戏",
     "version":"v1.0.0.349",
     "size_bytes":734003200,
     "size_text":"700MB",
@@ -83435,9 +83623,10 @@
   "pz_558":{
     "game_id":"pz_558",
     "title":"龙珠斗士Z",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.50",
+    "size_bytes":6442450944,
+    "size_text":"6GB",
     "developers":[
       "S-GAME Studio"
     ],
@@ -83503,7 +83692,7 @@
   "pz_560":{
     "game_id":"pz_560",
     "title":"逸剑风云决",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.24.32",
     "size_bytes":5368709120,
     "size_text":"5GB",
@@ -83528,7 +83717,7 @@
   "pz_561":{
     "game_id":"pz_561",
     "title":"橡胶强盗",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.9.0",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -83629,7 +83818,7 @@
   "pz_567":{
     "game_id":"pz_567",
     "title":"魔女之泉R",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.109",
     "size_bytes":7516192768,
     "size_text":"7GB",
@@ -83863,7 +84052,7 @@
   "pz_574":{
     "game_id":"pz_574",
     "title":"刀剑神域 异绊集结",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.21",
     "size_bytes":19327352832,
     "size_text":"18GB",
@@ -84973,9 +85162,10 @@
   "pz_621":{
     "game_id":"pz_621",
     "title":"火影忍者 终极风暴羁绊",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.70",
+    "size_bytes":32212254720,
+    "size_text":"30GB",
     "developers":[
       "CyberConnect2 Co., Ltd."
     ],
@@ -85084,7 +85274,7 @@
   "pz_628":{
     "game_id":"pz_628",
     "title":"王牌与冒险",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.221",
     "size_bytes":1717986918,
     "size_text":"1.6GB",
@@ -85131,7 +85321,7 @@
   "pz_63":{
     "game_id":"pz_63",
     "title":"火山的女儿",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v2.02.01",
     "size_bytes":1503238553,
     "size_text":"1.4GB",
@@ -85222,7 +85412,7 @@
   "pz_632":{
     "game_id":"pz_632",
     "title":"巫师之昆特牌: 王权的陨落",
-    "category":"休闲游戏",
+    "category":"角色扮演",
     "version":"v1.0.2.12",
     "size_bytes":9663676416,
     "size_text":"9GB",
@@ -86481,7 +86671,7 @@
   "pz_693":{
     "game_id":"pz_693",
     "title":"欧陆风云IV",
-    "category":"动作游戏",
+    "category":"策略游戏",
     "version":"v1.37.4",
     "size_bytes":8160437862,
     "size_text":"7.6GB",
@@ -87188,7 +87378,7 @@
   "pz_720":{
     "game_id":"pz_720",
     "title":"挺进地牢",
-    "category":"动作游戏",
+    "category":"独立游戏",
     "version":"v2.1.9",
     "size_bytes":314572800,
     "size_text":"300MB",
@@ -87348,7 +87538,7 @@
   "pz_725":{
     "game_id":"pz_725",
     "title":"一方灵田",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.0.42",
     "size_bytes":3221225472,
     "size_text":"3GB",
@@ -87428,9 +87618,10 @@
   "pz_728":{
     "game_id":"pz_728",
     "title":"铁拳8",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v3.02.01",
+    "size_bytes":126701535232,
+    "size_text":"118GB",
     "developers":[
       "Bandai Namco Studios Inc."
     ],
@@ -87548,7 +87739,7 @@
   "pz_735":{
     "game_id":"pz_735",
     "title":"GRIS",
-    "category":"冒险游戏",
+    "category":"独立游戏",
     "version":"v20190307",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -87869,7 +88060,7 @@
   "pz_750":{
     "game_id":"pz_750",
     "title":"打鬼",
-    "category":"动作游戏",
+    "category":"独立游戏",
     "version":"null",
     "size_bytes":9878424780,
     "size_text":"9.2GB",
@@ -88110,7 +88301,7 @@
   "pz_758":{
     "game_id":"pz_758",
     "title":"名利游戏",
-    "category":"休闲游戏",
+    "category":"角色扮演",
     "version":"v1.1.1",
     "size_bytes":23622320128,
     "size_text":"22GB",
@@ -88266,9 +88457,10 @@
   "pz_763":{
     "game_id":"pz_763",
     "title":"迪士尼梦幻星谷",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"模拟经营",
+    "version":"v1.24.2",
+    "size_bytes":24696061952,
+    "size_text":"23GB",
     "developers":[
       "Gameloft"
     ],
@@ -88379,7 +88571,7 @@
   "pz_769":{
     "game_id":"pz_769",
     "title":"神灵石之劫",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.1.22",
     "size_bytes":2899102924,
     "size_text":"2.7GB",
@@ -88407,7 +88599,7 @@
   "pz_770":{
     "game_id":"pz_770",
     "title":"杯杯倒满",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v0.8.54",
     "size_bytes":209715200,
     "size_text":"200MB",
@@ -88619,7 +88811,7 @@
   "pz_777":{
     "game_id":"pz_777",
     "title":"英雄旧忆",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.52.0",
     "size_bytes":419430400,
     "size_text":"400MB",
@@ -89023,7 +89215,7 @@
   "pz_793":{
     "game_id":"pz_793",
     "title":"永恒之柱2: 死亡之火",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v5.0.0.0040",
     "size_bytes":28991029248,
     "size_text":"27GB",
@@ -89331,7 +89523,7 @@
   "pz_806":{
     "game_id":"pz_806",
     "title":"崩溃大陆",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.5.87",
     "size_bytes":104857600,
     "size_text":"100MB",
@@ -89644,7 +89836,7 @@
   "pz_816":{
     "game_id":"pz_816",
     "title":"颂钟长鸣",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v46915",
     "size_bytes":23622320128,
     "size_text":"22GB",
@@ -89722,7 +89914,7 @@
   "pz_818":{
     "game_id":"pz_818",
     "title":"蟹蟹寻宝奇遇",
-    "category":"动作游戏",
+    "category":"独立游戏",
     "version":"v2.0.000.3",
     "size_bytes":5368709120,
     "size_text":"5GB",
@@ -90678,7 +90870,7 @@
   "pz_854":{
     "game_id":"pz_854",
     "title":"SUMMERHOUSE",
-    "category":"恐怖游戏",
+    "category":"模拟经营",
     "version":"v1.2.6",
     "size_bytes":78643200,
     "size_text":"75MB",
@@ -90934,7 +91126,7 @@
   "pz_863":{
     "game_id":"pz_863",
     "title":"OMORI",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.0.8",
     "size_bytes":3865470566,
     "size_text":"3.6GB",
@@ -91125,7 +91317,7 @@
   "pz_870":{
     "game_id":"pz_870",
     "title":"验尸模拟器",
-    "category":"独立游戏",
+    "category":"模拟经营",
     "version":"v153.413",
     "size_bytes":11811160064,
     "size_text":"11GB",
@@ -91269,7 +91461,7 @@
   "pz_875":{
     "game_id":"pz_875",
     "title":"超级机器人大战30",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.3.0.3",
     "size_bytes":18253611008,
     "size_text":"17GB",
@@ -91468,7 +91660,7 @@
   "pz_883":{
     "game_id":"pz_883",
     "title":"要塞: 决定版",
-    "category":"休闲游戏",
+    "category":"策略游戏",
     "version":"v1.31",
     "size_bytes":11811160064,
     "size_text":"11GB",
@@ -91540,9 +91732,10 @@
   "pz_886":{
     "game_id":"pz_886",
     "title":"孤岛惊魂5",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v1.016",
+    "size_bytes":90194313216,
+    "size_text":"84GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -91556,7 +91749,7 @@
   "pz_887":{
     "game_id":"pz_887",
     "title":"活侠传",
-    "category":"冒险游戏",
+    "category":"角色扮演",
     "version":"v1.0.5000.13",
     "size_bytes":1073741824,
     "size_text":"1GB",
@@ -91915,7 +92108,7 @@
   "pz_903":{
     "game_id":"pz_903",
     "title":"Class of &#39;09",
-    "category":"休闲游戏",
+    "category":"角色扮演",
     "version":"v02032024",
     "size_bytes":838860800,
     "size_text":"800MB",
@@ -92008,7 +92201,7 @@
   "pz_906":{
     "game_id":"pz_906",
     "title":"Go-Go Town!",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v0.5.87",
     "size_bytes":629145600,
     "size_text":"600MB",
@@ -92081,9 +92274,10 @@
   "pz_909":{
     "game_id":"pz_909",
     "title":"汽车修理工模拟 2021",
-    "category":"体育竞速",
-    "version":"",
-    "size_text":"",
+    "category":"模拟经营",
+    "version":"v1.040",
+    "size_bytes":17179869184,
+    "size_text":"16GB",
     "developers":[
       "Red Dot Games"
     ],
@@ -92208,7 +92402,7 @@
   "pz_914":{
     "game_id":"pz_914",
     "title":"Death Road to Canada",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v08152024",
     "size_bytes":104857600,
     "size_text":"100MB",
@@ -92353,7 +92547,7 @@
   "pz_92":{
     "game_id":"pz_92",
     "title":"亚瑟王: 骑士传说",
-    "category":"休闲游戏",
+    "category":"角色扮演",
     "version":"v2.0.1",
     "size_bytes":43271795507,
     "size_text":"40.3GB",
@@ -92441,7 +92635,7 @@
   "pz_923":{
     "game_id":"pz_923",
     "title":"饥饿与恐惧2: 终结之祭",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v1.9.1",
     "size_bytes":1717986918,
     "size_text":"1.6GB",
@@ -92911,7 +93105,7 @@
   "pz_941":{
     "game_id":"pz_941",
     "title":"The Long Drive",
-    "category":"动作游戏",
+    "category":"独立游戏",
     "version":"v20241110",
     "size_bytes":367001600,
     "size_text":"350MB",
@@ -93065,7 +93259,7 @@
   "pz_947":{
     "game_id":"pz_947",
     "title":"冲就完事模拟器",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.11.0",
     "size_bytes":16106127360,
     "size_text":"15GB",
@@ -93252,7 +93446,7 @@
   "pz_953":{
     "game_id":"pz_953",
     "title":"卡库远古封印",
-    "category":"动作游戏",
+    "category":"角色扮演",
     "version":"v11272024",
     "size_bytes":16106127360,
     "size_text":"15GB",
@@ -94010,7 +94204,7 @@
   "pz_979":{
     "game_id":"pz_979",
     "title":"牧野之歌",
-    "category":"休闲游戏",
+    "category":"模拟经营",
     "version":"v1.3.106",
     "size_bytes":2147483648,
     "size_text":"2GB",
@@ -94043,9 +94237,10 @@
   "pz_98":{
     "game_id":"pz_98",
     "title":"GTA5",
-    "category":"无分类",
-    "version":"",
-    "size_text":"",
+    "category":"动作游戏",
+    "version":"v3889",
+    "size_bytes":128849018880,
+    "size_text":"120GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -94083,7 +94278,7 @@
   "pz_981":{
     "game_id":"pz_981",
     "title":"三国志汉末霸业",
-    "category":"独立游戏",
+    "category":"策略游戏",
     "version":"v1.1.8",
     "size_bytes":2147483648,
     "size_text":"2GB",
@@ -94185,9 +94380,10 @@
   "pz_985":{
     "game_id":"pz_985",
     "title":"UBOAT",
-    "category":"动作游戏",
-    "version":"",
-    "size_text":"",
+    "category":"模拟经营",
+    "version":"v2026.1",
+    "size_bytes":39728447488,
+    "size_text":"37GB",
     "developers":[
       "Deep Water Studio"
     ],
