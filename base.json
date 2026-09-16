@@ -78462,7 +78462,7 @@
     "size_text":"300MB",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2018-04-12",
     "languages":[],
     "rating":null,
     "steam_appid":0,
@@ -78512,12 +78512,18 @@
     "version":"v2.00",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "TwistedScarlett60"
+    ],
+    "publishers":[
+      "TwistedScarlett60"
+    ],
+    "release_date":"2020 年 11 月 4 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1299370,
     "source":"playzip",
     "updated_at":"1789199069",
     "next_check_at":"0"
@@ -78546,12 +78552,46 @@
     "version":"v1.4",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Lewd Star"
+    ],
+    "publishers":[
+      "Lewd Star"
+    ],
+    "release_date":"2026 年 9 月 12 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "保加利亚语",
+      "越南语",
+      "希腊语",
+      "丹麦语",
+      "简体中文",
+      "繁体中文",
+      "韩语",
+      "马来语",
+      "挪威语",
+      "荷兰语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "葡萄牙语 - 葡萄牙",
+      "罗马尼亚语",
+      "泰语",
+      "土耳其语",
+      "匈牙利语",
+      "乌克兰语",
+      "芬兰语",
+      "捷克语",
+      "瑞典语",
+      "日语",
+      "印度尼西亚语",
+      "西班牙语 - 拉丁美洲"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4602300,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
@@ -78563,12 +78603,19 @@
     "version":"v0.6.21",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Team Lazerbeam"
+    ],
+    "publishers":[
+      "Devolver Digital"
+    ],
+    "release_date":"2026 年 9 月 10 日",
+    "languages":[
+      "英语",
+      "简体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3271280,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
@@ -78580,12 +78627,30 @@
     "version":"v1.0",
     "size_bytes":104857600,
     "size_text":"100MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Mheep"
+    ],
+    "publishers":[
+      "Mheep",
+      "Zero Percent"
+    ],
+    "release_date":"2026 年 9 月 11 日",
+    "languages":[
+      "英语",
+      "波兰语",
+      "葡萄牙语 - 葡萄牙",
+      "瑞典语",
+      "法语",
+      "意大利语",
+      "德语",
+      "日语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "西班牙语 - 西班牙",
+      "简体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4150860,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
@@ -78597,12 +78662,48 @@
     "version":"v091126",
     "size_bytes":21474836480,
     "size_text":"20GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Kinky Business Group"
+    ],
+    "publishers":[
+      "Kinky Business Group"
+    ],
+    "release_date":"2026 年 9 月 11 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "阿拉伯语",
+      "保加利亚语",
+      "匈牙利语",
+      "越南语",
+      "希腊语",
+      "丹麦语",
+      "印度尼西亚语",
+      "西班牙语 - 拉丁美洲",
+      "繁体中文",
+      "简体中文",
+      "韩语",
+      "马来语",
+      "荷兰语",
+      "挪威语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "葡萄牙语 - 葡萄牙",
+      "罗马尼亚语",
+      "俄语",
+      "泰语",
+      "土耳其语",
+      "乌克兰语",
+      "芬兰语",
+      "捷克语",
+      "瑞典语",
+      "日语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4934050,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
@@ -78614,12 +78715,29 @@
     "version":"v0.6.3",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "NoShadow"
+    ],
+    "publishers":[
+      "NoShadow",
+      "UNSUBSCRIBE"
+    ],
+    "release_date":"2026 年 9 月 4 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "日语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "西班牙语 - 拉丁美洲",
+      "乌克兰语",
+      "简体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3373500,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
@@ -78631,12 +78749,21 @@
     "version":"v1.03",
     "size_bytes":6442450944,
     "size_text":"6GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "lowiro"
+    ],
+    "publishers":[
+      "lowiro"
+    ],
+    "release_date":"2026 年 9 月 9 日",
+    "languages":[
+      "英语",
+      "日语",
+      "简体中文",
+      "繁体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3971950,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
@@ -78648,12 +78775,35 @@
     "version":"v090826",
     "size_bytes":5368709120,
     "size_text":"5GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Cosmic Stag Games"
+    ],
+    "publishers":[
+      "Cosmic Stag Games",
+      "Craftmos Games"
+    ],
+    "release_date":"2026 年 9 月 8 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "捷克语",
+      "日语",
+      "韩语",
+      "波兰语",
+      "葡萄牙语 - 葡萄牙",
+      "俄语",
+      "简体中文",
+      "土耳其语",
+      "乌克兰语",
+      "越南语",
+      "繁体中文",
+      "印度尼西亚语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3170490,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
@@ -78665,12 +78815,19 @@
     "version":"v091026",
     "size_bytes":10737418240,
     "size_text":"10GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "ANB_Seth"
+    ],
+    "publishers":[
+      "2080 Games"
+    ],
+    "release_date":"2026 年 9 月 10 日",
+    "languages":[
+      "英语",
+      "德语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2421750,
     "source":"playzip",
     "updated_at":"1789374784",
     "next_check_at":"0"
