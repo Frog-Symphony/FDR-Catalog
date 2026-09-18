@@ -78856,12 +78856,20 @@
     "version":"v1.02",
     "size_bytes":2147483648,
     "size_text":"2GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Acerola"
+    ],
+    "publishers":[
+      "Kagura Games"
+    ],
+    "release_date":"2018 年 7 月 19 日",
+    "languages":[
+      "英语",
+      "日语",
+      "简体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":828070,
     "source":"playzip",
     "updated_at":"1789460737",
     "next_check_at":"0"
@@ -78961,12 +78969,22 @@
     "version":"v88",
     "size_bytes":2147483648,
     "size_text":"2GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Backflip WildCAT"
+    ],
+    "publishers":[
+      "Mango Party"
+    ],
+    "release_date":"2026 年 9 月 10 日",
+    "languages":[
+      "繁体中文",
+      "英语",
+      "日语",
+      "简体中文",
+      "韩语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2824570,
     "source":"playzip",
     "updated_at":"1789460737",
     "next_check_at":"0"
@@ -78978,12 +78996,22 @@
     "version":"v1.09",
     "size_bytes":2147483648,
     "size_text":"2GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "LUNA GameArt"
+    ],
+    "publishers":[
+      "Mango Party"
+    ],
+    "release_date":"2026 年 9 月 11 日",
+    "languages":[
+      "繁体中文",
+      "英语",
+      "日语",
+      "韩语",
+      "简体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4507930,
     "source":"playzip",
     "updated_at":"1789460737",
     "next_check_at":"0"
@@ -79012,12 +79040,21 @@
     "version":"v3.06",
     "size_bytes":104857600,
     "size_text":"100MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Henrique Faitta Chitolina",
+      "Pidro Soft"
+    ],
+    "publishers":[
+      "Baby Stone Studios"
+    ],
+    "release_date":"2021 年 1 月 21 日",
+    "languages":[
+      "英语",
+      "葡萄牙语 - 巴西",
+      "西班牙语 - 西班牙"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1342890,
     "source":"playzip",
     "updated_at":"1789460737",
     "next_check_at":"0"
