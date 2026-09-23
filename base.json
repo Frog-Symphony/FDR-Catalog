@@ -79451,12 +79451,31 @@
     "version":"v1.5.3",
     "size_bytes":39728447488,
     "size_text":"37GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Funcom"
+    ],
+    "publishers":[
+      "Funcom"
+    ],
+    "release_date":"2025 年 6 月 10 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "日语",
+      "韩语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "繁体中文",
+      "土耳其语",
+      "乌克兰语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1172710,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79468,12 +79487,27 @@
     "version":"v1.03",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Snako Production"
+    ],
+    "publishers":[
+      "Infini Fun"
+    ],
+    "release_date":"2026 年 9 月 9 日",
+    "languages":[
+      "英语",
+      "简体中文",
+      "繁体中文",
+      "法语",
+      "德语",
+      "俄语",
+      "日语",
+      "西班牙语 - 拉丁美洲",
+      "韩语",
+      "葡萄牙语 - 巴西"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3353800,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79525,12 +79559,18 @@
     "version":"v1.00s",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Nitro+CHiRAL"
+    ],
+    "publishers":[
+      "JAST"
+    ],
+    "release_date":"2020 年 2 月 25 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1174400,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79542,12 +79582,30 @@
     "version":"v0.17.1",
     "size_bytes":22548578304,
     "size_text":"21GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Affray Interactive"
+    ],
+    "publishers":[
+      "Balor Games"
+    ],
+    "release_date":"2022 年 2 月 22 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "阿拉伯语",
+      "丹麦语",
+      "匈牙利语",
+      "日语",
+      "韩语",
+      "挪威语",
+      "波兰语",
+      "西班牙语 - 拉丁美洲"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":872670,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79561,7 +79619,7 @@
     "size_text":"600MB",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2018-12-04",
     "languages":[],
     "rating":null,
     "steam_appid":0,
@@ -79576,12 +79634,32 @@
     "version":"v091826",
     "size_bytes":3221225472,
     "size_text":"3GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "RedHub VR"
+    ],
+    "publishers":[
+      "RedHub VR"
+    ],
+    "release_date":"2026 年 9 月 18 日",
+    "languages":[
+      "英语",
+      "法语",
+      "德语",
+      "繁体中文",
+      "简体中文",
+      "日语",
+      "韩语",
+      "俄语",
+      "西班牙语 - 西班牙",
+      "西班牙语 - 拉丁美洲",
+      "波兰语",
+      "葡萄牙语 - 葡萄牙",
+      "葡萄牙语 - 巴西",
+      "泰语",
+      "土耳其语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4355740,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79593,12 +79671,27 @@
     "version":"v091726",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "シン・ギュラリティー"
+    ],
+    "publishers":[
+      "akaeroCore",
+      "DLsite"
+    ],
+    "release_date":"2026 年 9 月 16 日",
+    "languages":[
+      "英语",
+      "日语",
+      "简体中文",
+      "繁体中文",
+      "韩语",
+      "德语",
+      "俄语",
+      "泰语",
+      "西班牙语 - 拉丁美洲"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4110220,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79610,12 +79703,29 @@
     "version":"v1.4.16",
     "size_bytes":209715200,
     "size_text":"200MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Friedemann",
+      "Noio Games"
+    ],
+    "publishers":[
+      "Raw Fury"
+    ],
+    "release_date":"2023 年 9 月 28 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "日语",
+      "韩语",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "乌克兰语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1951230,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79629,7 +79739,7 @@
     "size_text":"1GB",
     "developers":[],
     "publishers":[],
-    "release_date":"",
+    "release_date":"2016-12-20",
     "languages":[],
     "rating":null,
     "steam_appid":0,
@@ -79644,12 +79754,46 @@
     "version":"v091926",
     "size_bytes":3221225472,
     "size_text":"3GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Lewd Star"
+    ],
+    "publishers":[
+      "Lewd Star"
+    ],
+    "release_date":"2026 年 9 月 19 日",
+    "languages":[
+      "英语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "保加利亚语",
+      "越南语",
+      "希腊语",
+      "丹麦语",
+      "简体中文",
+      "繁体中文",
+      "韩语",
+      "马来语",
+      "挪威语",
+      "荷兰语",
+      "波兰语",
+      "葡萄牙语 - 巴西",
+      "葡萄牙语 - 葡萄牙",
+      "罗马尼亚语",
+      "泰语",
+      "土耳其语",
+      "匈牙利语",
+      "乌克兰语",
+      "芬兰语",
+      "捷克语",
+      "瑞典语",
+      "日语",
+      "印度尼西亚语",
+      "西班牙语 - 拉丁美洲"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4657600,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79661,12 +79805,35 @@
     "version":"v3927",
     "size_bytes":17179869184,
     "size_text":"16GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Perfect Circle Team S.A."
+    ],
+    "publishers":[
+      "Perfect Circle Team S.A."
+    ],
+    "release_date":"2026 年 9 月 17 日",
+    "languages":[
+      "英语",
+      "波兰语",
+      "法语",
+      "意大利语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 葡萄牙",
+      "俄语",
+      "简体中文",
+      "捷克语",
+      "荷兰语",
+      "日语",
+      "韩语",
+      "葡萄牙语 - 巴西",
+      "泰语",
+      "土耳其语",
+      "乌克兰语",
+      "越南语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2938460,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79678,12 +79845,35 @@
     "version":"v0.2.01",
     "size_bytes":524288000,
     "size_text":"500MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "51% Games"
+    ],
+    "publishers":[
+      "51% Games",
+      "Phoenix Games (China Region)"
+    ],
+    "release_date":"2026 年 4 月 13 日",
+    "languages":[
+      "英语",
+      "韩语",
+      "法语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "俄语",
+      "越南语",
+      "日语",
+      "简体中文",
+      "泰语",
+      "葡萄牙语 - 巴西",
+      "波兰语",
+      "意大利语",
+      "繁体中文",
+      "西班牙语 - 拉丁美洲",
+      "土耳其语",
+      "乌克兰语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":3087930,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79738,12 +79928,18 @@
     "version":"v091226",
     "size_bytes":104857600,
     "size_text":"100MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Mike Bushell"
+    ],
+    "publishers":[
+      "Mike Bushell"
+    ],
+    "release_date":"2022 年 11 月 18 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":2198800,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79755,12 +79951,18 @@
     "version":"v091526",
     "size_bytes":314572800,
     "size_text":"300MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "SHROOMYCHRIST Studios"
+    ],
+    "publishers":[
+      "SHROOMYCHRIST Studios"
+    ],
+    "release_date":"2026 年 9 月 15 日",
+    "languages":[
+      "英语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":5044390,
     "source":"playzip",
     "updated_at":"1789979739",
     "next_check_at":"0"
@@ -79772,6 +79974,33 @@
     "version":"v1.0.10",
     "size_bytes":16106127360,
     "size_text":"15GB",
+    "developers":[
+      "Ephemera Games"
+    ],
+    "publishers":[
+      "Whitethorn Games"
+    ],
+    "release_date":"2026 年 9 月 17 日",
+    "languages":[
+      "英语",
+      "日语",
+      "西班牙语 - 拉丁美洲",
+      "简体中文",
+      "繁体中文"
+    ],
+    "rating":null,
+    "steam_appid":2902170,
+    "source":"playzip",
+    "updated_at":"1789979739",
+    "next_check_at":"0"
+  },
+  "pz_3593":{
+    "game_id":"pz_3593",
+    "title":"SILENT HILL: Townfall",
+    "category":"动作游戏",
+    "version":"v153521",
+    "size_bytes":62277025792,
+    "size_text":"58GB",
     "developers":[],
     "publishers":[],
     "release_date":"",
@@ -79779,7 +80008,109 @@
     "rating":null,
     "steam_appid":0,
     "source":"playzip",
-    "updated_at":"1789979739",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3594":{
+    "game_id":"pz_3594",
+    "title":"Lawgivers II",
+    "category":"模拟经营",
+    "version":"v0.16.33",
+    "size_bytes":104857600,
+    "size_text":"100MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3595":{
+    "game_id":"pz_3595",
+    "title":"Happy Wheels",
+    "category":"动作游戏",
+    "version":"v1.99",
+    "size_bytes":209715200,
+    "size_text":"200MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3596":{
+    "game_id":"pz_3596",
+    "title":"针影裁梦",
+    "category":"模拟经营",
+    "version":"v403",
+    "size_bytes":314572800,
+    "size_text":"300MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3597":{
+    "game_id":"pz_3597",
+    "title":"DRAPLINE",
+    "category":"冒险游戏",
+    "version":"v0.9.3",
+    "size_bytes":314572800,
+    "size_text":"300MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3598":{
+    "game_id":"pz_3598",
+    "title":"木木屋",
+    "category":"独立游戏",
+    "version":"v803",
+    "size_bytes":2147483648,
+    "size_text":"2GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3599":{
+    "game_id":"pz_3599",
+    "title":"花砖公司",
+    "category":"模拟经营",
+    "version":"v1.01",
+    "size_bytes":629145600,
+    "size_text":"600MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
     "next_check_at":"0"
   },
   "pz_36":{
@@ -79835,6 +80166,74 @@
     "source":"playzip",
     "updated_at":"1787382982",
     "next_check_at":"1789974982"
+  },
+  "pz_3600":{
+    "game_id":"pz_3600",
+    "title":"Goodnight Universe",
+    "category":"冒险游戏",
+    "version":"v1.06",
+    "size_bytes":4294967296,
+    "size_text":"4GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3601":{
+    "game_id":"pz_3601",
+    "title":"The Walking Dead Onslaught",
+    "category":"动作游戏",
+    "version":"v2020",
+    "size_bytes":10737418240,
+    "size_text":"10GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3602":{
+    "game_id":"pz_3602",
+    "title":"Humanica",
+    "category":"策略游戏",
+    "version":"v0.10.1",
+    "size_bytes":104857600,
+    "size_text":"100MB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
+  },
+  "pz_3603":{
+    "game_id":"pz_3603",
+    "title":"守墓人2",
+    "category":"模拟经营",
+    "version":"v1.004",
+    "size_bytes":1073741824,
+    "size_text":"1GB",
+    "developers":[],
+    "publishers":[],
+    "release_date":"",
+    "languages":[],
+    "rating":null,
+    "steam_appid":0,
+    "source":"playzip",
+    "updated_at":"1790151522",
+    "next_check_at":"0"
   },
   "pz_361":{
     "game_id":"pz_361",
