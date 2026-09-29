@@ -80434,12 +80434,27 @@
     "version":"v1.03.1",
     "size_bytes":41875931136,
     "size_text":"39GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Nihon Falcom"
+    ],
+    "publishers":[
+      "Nihon Falcom",
+      "GungHo Online Entertainment America, Inc.",
+      "Clouded Leopard Entertainment"
+    ],
+    "release_date":"2026 年 9 月 16 日",
+    "languages":[
+      "英语",
+      "日语",
+      "法语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "简体中文",
+      "繁体中文",
+      "韩语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4225980,
     "source":"playzip",
     "updated_at":"1790499372",
     "next_check_at":"0"
@@ -80451,12 +80466,22 @@
     "version":"v1.0.1",
     "size_bytes":1073741824,
     "size_text":"1GB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Kumada Gaon"
+    ],
+    "publishers":[
+      "Saikey Studios"
+    ],
+    "release_date":"2026 年 9 月 25 日",
+    "languages":[
+      "英语",
+      "日语",
+      "韩语",
+      "简体中文",
+      "繁体中文"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":4260270,
     "source":"playzip",
     "updated_at":"1790499372",
     "next_check_at":"0"
@@ -80468,12 +80493,29 @@
     "version":"v1.0.33",
     "size_bytes":314572800,
     "size_text":"300MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Mojiken"
+    ],
+    "publishers":[
+      "Cube Game"
+    ],
+    "release_date":"2027 年 1 月 19 日",
+    "languages":[
+      "英语",
+      "日语",
+      "韩语",
+      "葡萄牙语 - 巴西",
+      "简体中文",
+      "繁体中文",
+      "印度尼西亚语",
+      "法语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "俄语",
+      "土耳其语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1201270,
     "source":"playzip",
     "updated_at":"1790499372",
     "next_check_at":"0"
@@ -80485,12 +80527,26 @@
     "version":"v1.04",
     "size_bytes":419430400,
     "size_text":"400MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
+    "developers":[
+      "Sigil Games"
+    ],
+    "publishers":[
+      "Sigil Games"
+    ],
+    "release_date":"2026 年 8 月 28 日",
+    "languages":[
+      "英语",
+      "俄语",
+      "简体中文",
+      "日语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 巴西",
+      "韩语",
+      "法语",
+      "德语"
+    ],
     "rating":null,
-    "steam_appid":0,
+    "steam_appid":1148130,
     "source":"playzip",
     "updated_at":"1790499372",
     "next_check_at":"0"
@@ -80502,12 +80558,29 @@
     "version":"v081226",
     "size_bytes":734003200,
     "size_text":"700MB",
-    "developers":[],
-    "publishers":[],
-    "release_date":"",
-    "languages":[],
-    "rating":null,
-    "steam_appid":0,
+    "developers":[
+      "Kyle Thompson"
+    ],
+    "publishers":[
+      "Kyle Thompson",
+      "Top Hat Studios, Inc.",
+      "Doyoyo Games"
+    ],
+    "release_date":"2026 年 9 月 22 日",
+    "languages":[
+      "英语",
+      "法语",
+      "德语",
+      "西班牙语 - 西班牙",
+      "葡萄牙语 - 巴西",
+      "俄语",
+      "简体中文",
+      "日语",
+      "韩语",
+      "繁体中文"
+    ],
+    "rating":90.0,
+    "steam_appid":3699590,
     "source":"playzip",
     "updated_at":"1790499372",
     "next_check_at":"0"
